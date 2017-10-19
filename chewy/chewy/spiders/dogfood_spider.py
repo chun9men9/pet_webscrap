@@ -12,7 +12,7 @@ def clean_str(strproc):
 class DogFoodSpider(Spider):
     name = "dogfood_spider"
     allowed_urls = ['https://www.chewy.com']
-    start_urls = ['https://www.chewy.com/s?rh=c%3A288%2Cc%3A332%2Cc%3A293&page='+ str(i) for i in range(2)]
+    start_urls = ['https://www.chewy.com/s?rh=c%3A288%2Cc%3A332%2Cc%3A293&page='+ str(i) for i in range(37)]
     
     
     def parse(self, response):
@@ -39,6 +39,7 @@ class DogFoodSpider(Spider):
         company=rightcol_path.xpath('.//div[@id="product-subtitle"]/a/text()').extract_first()
         #company=company.strip('\n').strip(' ').strip('^By ')
         company=clean_str(company)
+        company=company.strip('^By ')
         list_price=price_path.xpath('./li[@class="list-price"]/p[@class="price"]/text()').extract_first()
         #list_price=list_price.strip('\n').strip(' ')
         #list_price=clean_str(list_price)
@@ -59,12 +60,12 @@ class DogFoodSpider(Spider):
         item['company'] = company
         item['list_price'] = list_price
         item['price'] = price
-        item['description_titles'] = description_titles
-        item['description_values'] = description_values
-        
-        # if (len(description_titles)==len(description_values)): #and set(description_titles).issubset(all_titles)):
-        #     for i in range(len(description_titles)):
-        #         item[description_titles[i]]=description_values[i]
+        #item['description_titles'] = description_titles
+        #item['description_values'] = description_values
+        if (len(description_titles)==len(description_values)): #and set(description_titles).issubset(all_titles)):
+             for i in range(len(description_titles)):
+                if(description_titles[i] in all_titles):
+                    item[description_titles[i]]=description_values[i]
         
 
         item['review_count']=review_count
