@@ -18,7 +18,7 @@ class ValidateItemPipeline(object):
 class WriteItemPipeline(object):
 
     def __init__(self):
-        self.filename = 'dogfood.csv'
+        self.filename = 'wetdogfood.csv'
 
     def open_spider(self, spider):
         self.csvfile = open(self.filename, 'wb')

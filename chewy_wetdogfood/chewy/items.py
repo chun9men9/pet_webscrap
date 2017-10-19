@@ -11,8 +11,9 @@ import scrapy
 class ChewyItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    category=scrapy.Field()
     product_list=scrapy.Field()
-    company=scrapy.Field()
+    maker=scrapy.Field()
     list_price=scrapy.Field()
     price=scrapy.Field()
     # description_titles=scrapy.Field()
@@ -28,4 +29,13 @@ class ChewyItem(scrapy.Item):
     specialdiet=scrapy.Field()
     review_count=scrapy.Field()
     rating=scrapy.Field()
+    benefits=scrapy.Field()
+    ingredients=scrapy.Field()
+    caloric=scrapy.Field()
+    protein=scrapy.Field()
+    fat=scrapy.Field()
+    fibre=scrapy.Field()
+    moisture=scrapy.Field()
+    size=scrapy.Field()
+
     pass
