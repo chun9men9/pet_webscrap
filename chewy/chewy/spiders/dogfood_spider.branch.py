@@ -12,14 +12,14 @@ def clean_str(strproc):
 class DogFoodSpider(Spider):
     name = "dogfood_spider"
     allowed_urls = ['https://www.chewy.com']
-    start_urls = ['https://www.chewy.com/s?rh=c%3A288%2Cc%3A332%2Cc%3A293&page='+ str(i) for i in range(2)]
+    start_urls = ['https://www.chewy.com/s?rh=c%3A288%2Cc%3A332%2Cc%3A293&page='+ str(i) for i in range(1)]
     
     
     def parse(self, response):
         prod_urls=response.xpath('//section[@class="results-products"]/article[@class="product-holder  cw-card cw-card-hover"]/a/@href').extract()
         prod_urls=['https://www.chewy.com' + url for url in prod_urls]
 
-        for url in prod_urls:
+        for url in prod_urls[0:3]:
             yield Request(url, callback=self.parse_top)
 
     def parse_top(self, response):
@@ -41,7 +41,7 @@ class DogFoodSpider(Spider):
         company=clean_str(company)
         list_price=price_path.xpath('./li[@class="list-price"]/p[@class="price"]/text()').extract_first()
         #list_price=list_price.strip('\n').strip(' ')
-        #list_price=clean_str(list_price)
+        list_price=clean_str(list_price)
         price=price_path.xpath('./li[@class="our-price"]/p[@class="price"]/span[@class="ga-eec__price"]/text()').extract_first()
         
         description_titles=description_path.xpath('./section[@class="descriptions__content cw-tabs__content--right"]//div[@class="title"]/text()').extract()
@@ -51,7 +51,7 @@ class DogFoodSpider(Spider):
         review_count=rating_path.xpath('.//span[@class="ugc-list__header--reviews ugc-list__header--reviews--page"]/span[@itemprop="reviewCount"]/text()').extract_first()
         rating=rating_path.xpath('.//span[@class="ugc-list__header--count"]/span[@itemprop="ratingValue"]/text()').extract_first()
         
-        description_titles=map(lambda t: re.sub(' ','',t),description_titles)
+
         #re.sub(r'<\S{1,3}>', '', directions)
         #map(lambda txt:txt.split('\n'),deslist)
         item = ChewyItem()
@@ -59,13 +59,13 @@ class DogFoodSpider(Spider):
         item['company'] = company
         item['list_price'] = list_price
         item['price'] = price
-        item['description_titles'] = description_titles
-        item['description_values'] = description_values
-        
-        # if (len(description_titles)==len(description_values)): #and set(description_titles).issubset(all_titles)):
-        #     for i in range(len(description_titles)):
-        #         item[description_titles[i]]=description_values[i]
-        
+        #item['description_titles'] = description_titles
+        #item['description_values'] = description_values
+        description_titles=map(lambda t: re.sub(' ','',t),description_titles)
+        if (len(description_titles)==len(description_values)): #and set(description_titles).issubset(all_titles)):
+            for i in range(len(description_titles)):
+                item[description_titles[i]]=description_values[i]
+        #['itemnumber','weight','foodtexture','brand','breedsize','foodform','lifestage','madein','specialdiet']   
 
         item['review_count']=review_count
         item['rating']=rating
