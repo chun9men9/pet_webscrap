@@ -1,7 +1,7 @@
 import re
 from scrapy import Spider, Request
 from scrapy.selector import Selector
-from chewy.items import ChewyItem
+from chewy_drydogfood.items import ChewyDrydogfoodItem
 all_titles=['itemnumber','weight','foodtexture','brand','breedsize','foodform','lifestage','madein','specialdiet']
 def clean_lis(lisproc):
     lisproc=map(lambda p:p.replace('\n','').strip(' ').lower(),lisproc)
@@ -10,9 +10,9 @@ def clean_str(strproc):
     return(strproc.strip('\n').strip(' '))
 
 class DogFoodSpider(Spider):
-    name = "wetdogfood_spider"
+    name = "drydogfood_spider"
     allowed_urls = ['https://www.chewy.com']
-    start_urls = ['https://www.chewy.com/s?rh=c%3A288%2Cc%3A332%2Cc%3A293&page='+ str(i) for i in range(37)]
+    start_urls = ['https://www.chewy.com/s?rh=c%3A288%2Cc%3A332%2Cc%3A294&page='+ str(i) for i in range(1,40)]
     
     
     def parse(self, response):
@@ -58,6 +58,11 @@ class DogFoodSpider(Spider):
         fat=nutritional_path.xpath('.//td[contains(text(),"Crude Fat")]/following::td[1]/text()').extract_first()
         fibre=nutritional_path.xpath('.//td[contains(text(),"Crude Fiber")]/following::td[1]/text()').extract_first()
         moisture=nutritional_path.xpath('.//td[contains(text(),"Moisture")]/following::td[1]/text()').extract_first()
+        zinc=nutritional_path.xpath('.//td[contains(text(),"Zinc")]/following::td[1]/text()').extract_first()
+        selenium=nutritional_path.xpath('.//td[contains(text(),"Selenium")]/following::td[1]/text()').extract_first()
+        vitamine=nutritional_path.xpath('.//td[contains(text(),"Vitamin E")]/following::td[1]/text()').extract_first()
+        omega6=nutritional_path.xpath('.//td[contains(text(),"Omega 6 Fatty Acids")]/following::td[1]/text()').extract_first()
+        omega3=nutritional_path.xpath('.//td[contains(text(),"Omega 3 Fatty Acids")]/following::td[1]/text()').extract_first()
         size=rightcol_path.xpath('.//div[@id="variation-Size"]//span[@class="attribute-selection__value js-selection-value"]/text()').extract_first()
 
         description_titles=map(lambda t: re.sub(' ','',t),description_titles)
@@ -66,7 +71,7 @@ class DogFoodSpider(Spider):
         caloric=clean_lis(caloric)
         #re.sub(r'<\S{1,3}>', '', directions)
         #map(lambda txt:txt.split('\n'),deslist)
-        item = ChewyItem()
+        item = ChewyDrydogfoodItem()
         item['category']=category
         item['product_list'] = product_list
         item['maker'] = maker
@@ -85,7 +90,11 @@ class DogFoodSpider(Spider):
         item['fat']=fat
         item['fibre']=fibre
         item['moisture']=moisture
-
+        item['zinc']=zinc
+        item['selenium']=selenium
+        item['vitamine']=vitamine
+        item['omega6']=omega6
+        item['omega3']=omega3
         item['review_count']=review_count
         item['rating']=rating
         item['size']=size
