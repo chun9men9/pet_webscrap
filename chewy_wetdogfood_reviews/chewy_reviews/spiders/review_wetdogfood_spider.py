@@ -12,14 +12,13 @@ def clean_str(strproc):
 class ReviewSpider(Spider):
     name = "review_wetdogfood_spider"
     allowed_urls = ['https://www.chewy.com']
-    start_urls = ['https://www.chewy.com/s?rh=c%3A288%2Cc%3A332%2Cc%3A293&page='+ str(i) for i in range(1,2)]
-    
+    start_urls = ['https://www.chewy.com/s?rh=c%3A288%2Cc%3A332%2Cc%3A293&page='+ str(i) for i in range(1,37)]
     
     def parse(self, response):
         prod_urls=response.xpath('//section[@class="results-products"]/article[@class="product-holder  cw-card cw-card-hover"]/a/@href').extract()
         prod_urls=['https://www.chewy.com' + url for url in prod_urls]
 
-        for url in prod_urls[0:3]:
+        for url in prod_urls:
             yield Request(url, callback=self.parse_top)
 
     def parse_top(self, response):
