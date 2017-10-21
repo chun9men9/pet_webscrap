@@ -1,0 +1,1263 @@
+,price,weight,product_list,maker,brand,rating,review_cnt,foodtexture
+0,21.24,9.524999999999999,whole earth farms grain-free hearty beef stew ,Whole Earth Farms,Whole Earth Farms,4.4,206.0,stew
+1,35.99,9.375,hill's prescription diet k/d kidney care chicken & vegetable stew ,Hill's Prescription Diet,Hill's,4.6,175.0,stew
+2,18.85,9.600000000000001,hill's science diet adult savory stew with beef & vegetables ,Hill's Science Diet,Hill's,4.9,40.0,stew
+3,25.99,9.375,blue buffalo wilderness duck & chicken grill grain-free ,Blue Buffalo,Blue Buffalo,4.6,97.0,pate
+4,18.22,9.375,nutro max large breed adult beef & rice dinner chunks in gravy ,Nutro Max,Nutro,4.6,33.0,chunks in gravy
+5,33.99,9.899999999999999,wellness 95% beef grain-free ,Wellness,Wellness,4.7,79.0,pate
+6,30.99,9.975000000000001,purina pro plan veterinary diets nf kidney function formula ,Purina Pro Plan Veterinary Diets,Purina,4.5,79.0,minced
+7,15.20,9.75,purina one smartblend tender cuts in gravy chicken & brown rice entree adult ,Purina ONE,Purina,4.6,18.0,chunks in gravy
+8,18.96,9.75,purina pro plan focus adult 7+ beef & rice entree morsels in gravy ,Purina Pro Plan,Purina,4.4,29.0,chunks in gravy
+9,24.54,9.524999999999999,newman's own organics grain-free 95% chicken & liver dinner ,Newman's Own Organics,Newman's Own Organics,4.5,22.0,pate
+10,33.99,9.375,wellness turkey & duck stew with sweet potatoes & cranberries ,Wellness,Wellness,4.9,43.0,stew
+11,27.44,10.125,royal canin mature adult in gel ,Royal Canin,Royal Canin,4.9,8.0,pate
+12,33.99,4.5,"wellness petite entrees mini-filets with roasted beef,carrots & red peppers in gravy grain-free wet dog food",Wellness,Wellness,4.9,23.0,chunks in gravy
+13,21.48,9.4,"nutro adult kitchen classics family dinner with turkey,rice & vegetables ",Nutro,Nutro,4.9,32.0,pate
+14,34.99,9.75,holistic select chicken pate recipe grain-free ,Holistic Select,Holistic Select,4.9,22.0,pate
+15,11.76,63.49,pedigree choice cuts in gravy steak & vegetable flavor ,Pedigree,Pedigree,,,chunks in gravy
+16,26.33,9.6,evanger's super premium lamb & rice dinner ,Evanger's,Evanger's,4.6,28.0,pate
+17,16.99,2.625,blue buffalo wilderness trail trays chicken grill formula grain-free dog food trays,Blue Buffalo,Blue Buffalo,5.0,3.0,pate
+18,26.99,9.75,dogswell happy hips lamb & sweet potato stew recipe grain-free ,Dogswell,Dogswell,4.7,27.0,stew
+19,7.59,3.5,pedigree choice cuts senior morsels in sauce with chicken & rice wet dog food,Pedigree,Pedigree,4.5,6.0,chunks in gravy
+20,16.80,5.25,cesar classics pate porterhouse steak flavor dog food trays,Cesar,Cesar,5.0,11.0,pate
+21,15.65,2.63,hill's science diet adult small & toy breed savory chicken & vegetable stew dog food trays,Hill's Science Diet,Hill's,4.2,5.0,stew
+22,31.44,9.899999999999999,nature's logic canine turkey feast grain-free ,Nature's Logic,Nature's Logic,4.7,17.0,minced
+23,29.88,9.75,nulo freestyle salmon & chickpeas recipe grain-free ,Nulo,Nulo,4.9,11.0,pate
+24,28.68,9.899999999999999,health extension meaty mix beef grain-free ,Health Extension,Health Extension,4.8,17.0,pate
+25,30.99,9.524999999999999,newman's own organics grain-free 95% chicken dinner ,Newman's Own Organics,Newman's Own Organics,4.6,40.0,pate
+26,42.95,10.5,"weruva bed & breakfast with chicken,egg,& pumpkin in gravy grain-free ",Weruva,Weruva,4.7,27.0,chunks in gravy
+27,20.49,9.9,eukanuba adult lamb & rice formula ,Eukanuba,Eukanuba,4.7,13.0,minced
+28,23.88,9.4,nutro large breed puppy tender lamb recipe bites in gravy ,Nutro,Nutro,4.8,20.0,chunks in gravy
+29,23.59,9.75,"natural balance original ultra premium whole body health chicken,salmon & duck formula ",Natural Balance,Natural Balance,4.4,29.0,pate
+30,15.65,2.63,hill's science diet adult small & toy breed savory beef & vegetable stew dog food trays,Hill's Science Diet,Hill's,5.0,1.0,stew
+31,28.08,4.95,instinct by nature's variety limited ingredient diet grain-free lamb formula ,Instinct,Instinct,4.8,30.0,pate
+32,30.50,9.524999999999999,castor & pollux organix grain-free organic turkey & vegetable recipe adult ,Castor & Pollux,Castor & Pollux,4.9,9.0,pate
+33,24.99,9.899999999999999,eagle pack chicken formula ,Eagle Pack,Eagle Pack,4.7,20.0,pate
+34,10.80,0.198125,purina bella chicken & smoked bacon flavors small breed dog food trays,Purina Bella,Purina,5.0,5.0,pate
+35,25.41,9.375,hill's science diet adult 7+ youthful vitality chicken & vegetable stew ,Hill's Science Diet,Hill's,5.0,4.0,stew
+36,34.68,9.600000000000001,party animal cocolicious 95% wholesome lamb grain-free ,Party Animal,Party Animal,4.9,7.0,pate
+37,30.02,5.3,nutro puppy tender beef & vegetable recipe bites in gravy dog food trays,Nutro,Nutro,4.7,17.0,stew
+38,31.44,9.525,merrick seasonals howl o’ ween stew grain-free ,Merrick,Merrick,5.0,3.0,stew
+39,21.48,9.4,nutro adult kitchen classics steamed fish & sweet potato dinner ,Nutro,Nutro,4.4,18.0,pate
+40,24.99,9.899999999999999,eagle pack lamb formula ,Eagle Pack,Eagle Pack,4.3,26.0,pate
+41,4.93,1.75,pedigree chopped ground dinner variety pack featuring bacon wet dog food,Pedigree,Pedigree,4.8,4.0,minced
+42,15.79,11.73,purina one smartblend true instinct classic ground with real beef & wild-caught salmon dog food,Purina ONE,Purina,5.0,2.0,minced
+43,18.72,2.0,merrick lil' plates grain-free surfin' & turfin' supper in gravy dog food trays,Merrick,Merrick,5.0,3.0,stew
+44,38.75,9.0,evanger's grain-free hand packed roasted whole chicken drummets dinner ,Evanger's,Evanger's,4.5,48.0,chunks in gravy
+45,10.92,9.9,"alpo prime cuts with beef,bacon & cheese in gravy ,13.2-oz,case of 12",ALPO,ALPO,5.0,3.0,chunks in gravy
+46,20.99,9.75,purina one smartblend true instinct tender cuts in gravy with real turkey & venison ,Purina ONE,Purina,5.0,7.0,chunks in gravy
+47,27.99,9.375,blue buffalo freedom grillers hearty turkey dinner grain-free ,Blue Buffalo,Blue Buffalo,4.9,10.0,chunks in gravy
+48,28.99,9.375,blue buffalo family favorite grain-free recipes mom's chicken pie ,Blue Buffalo,Blue Buffalo,4.7,10.0,stew
+49,18.72,2.625,merrick lil' plates grain-free teensy turducken in gravy dog food trays,Merrick,Merrick,4.2,4.0,stew
+50,21.99,9.899999999999999,nature's recipe senior lamb & rice recipe cuts in gravy stew ,Nature's Recipe,Nature's Recipe,4.2,28.0,stew
+51,16.80,5.25,cesar classics pate t-bone steak flavor dog food trays,Cesar,Cesar,4.8,13.0,pate
+52,9.49,3.5,pedigree choice cuts puppy morsels in sauce with chicken wet dog food,Pedigree,Pedigree,5.0,5.0,chunks in gravy
+53,21.24,9.524999999999999,whole earth farms grain-free puppy recipe ,Whole Earth Farms,Whole Earth Farms,4.5,36.0,pate
+54,39.99,8.25,blue buffalo wilderness small breed turkey & chicken grill grain-free ,Blue Buffalo,Blue Buffalo,4.7,22.0,pate
+55,28.99,9.375,blue buffalo family favorite grain-free recipes turducken ,Blue Buffalo,Blue Buffalo,4.6,19.0,stew
+56,18.72,2.625,merrick lil' plates grain-free petite pot pie in gravy dog food trays,Merrick,Merrick,4.6,18.0,stew
+57,29.61,9.6,evanger's organics cooked chicken grain-free ,Evanger's,Evanger's,4.7,49.0,pate
+58,18.48,9.75,iams proactive health puppy with chicken & rice pate ,Iams,Iams,4.7,14.0,pate
+59,24.99,11.25,dave's pet food restricted bland chicken & rice ,Dave's Pet Food,Dave's Pet Food,4.7,24.0,pate
+60,19.99,4.0,blue buffalo wilderness trail tubs red meat stew grain-free dog food trays,Blue Buffalo,Blue Buffalo,4.8,6.0,stew
+61,29.68,9.524999999999999,merrick seasonal grain-free star spangled supper recipe ,Merrick,Merrick,3.9,7.0,stew
+62,29.88,9.75,nulo freestyle turkey & sweet potato recipe grain-free ,Nulo,Nulo,4.9,10.0,pate
+63,33.99,9.375,wellness core hearty cuts in gravy chicken & turkey recipe grain-free ,Wellness,Wellness,4.4,15.0,chunks in gravy
+64,42.99,9.375,hill's prescription diet k/d kidney care + mobility care with chicken & vegetable stew ,Hill's Prescription Diet,Hill's,4.3,6.0,stew
+65,15.85,16.5,pedigree choice cuts in gravy with chicken & rice ,Pedigree,Pedigree,4.1,7.0,chunks in gravy
+66,24.99,9.75,canidae life stages lamb & rice formula ,CANIDAE,CANIDAE,4.8,16.0,pate
+67,46.95,14.0625,wellness complete health poultry lovers variety pack ,Wellness,Wellness,4.3,12.0,pate
+68,38.75,9.0,evanger's grain-free hand packed hunk of beef ,Evanger's,Evanger's,4.7,83.0,chunks in gravy
+69,31.44,9.524999999999999,merrick backcountry grain-free hearty salmon stew ,Merrick,Merrick,4.5,22.0,stew
+70,16.80,5.25,cesar savory delights pork tenderloin dog food trays,Cesar,Cesar,4.9,11.0,pate
+71,33.99,4.5,"wellness petite entrees casserole with tender chicken,green beans & carrots grain-free wet dog food",Wellness,Wellness,5.0,26.0,minced
+72,39.48,9.75,petkind tripett new zealand green lamb tripe grain-free ,PetKind,PetKind,4.9,57.0,pate
+73,25.75,9.375,blue buffalo basics limited ingredient grain-free turkey & potato recipe large breed ,Blue Buffalo,Blue Buffalo,4.7,15.0,pate
+74,8.63,4.6875,"nutro max adult chicken,rice and turkey,beef and rice  variety pack",Nutro,Nutro,5.0,3.0,chunks in gravy
+75,23.33,9.75,canidae grain-free pure sea salmon & mackerel formula ,CANIDAE,CANIDAE,4.5,51.0,pate
+76,6.11,1.0,"blue buffalo earth's essentials harvest table chicken & quinoa recipe dog food roll,1-lb roll",Blue Buffalo,Blue Buffalo,4.5,2.0,pate
+77,34.05,9.899999999999999,"castor & pollux natural ultramix whole chicken thigh,fresh cut carrots & sweet potatoes entree grain-free adult ",Castor & Pollux,Castor & Pollux,4.6,39.0,stew
+78,16.80,5.25,cesar home delights  hearty chicken noodle dog food trays,Cesar,Cesar,4.9,14.0,chunks in gravy
+79,33.99,9.375,wellness venison & salmon stew with potatoes & carrots ,Wellness,Wellness,4.5,36.0,stew
+80,31.44,9.524999999999999,merrick limited ingredient diet grain-free real chicken stew ,Merrick,Merrick,4.6,12.0,pate
+81,23.99,8.25,"purina pro plan savor adult seared chicken,julienne carrots & barley entree in gravy ",Purina Pro Plan,Purina,4.9,9.0,chunks in gravy
+82,30.96,4.125,nature's recipe chicken & turkey recipe in broth wet dog food,Nature's Recipe,Nature's Recipe,5.0,11.0,bits in broth
+83,25.99,9.75,dave's pet food 95% premium meats grain-free chicken recipe ,Dave's Pet Food,Dave's Pet Food,4.5,31.0,pate
+84,40.99,10.5,weruva jammin' salmon with chicken & salmon in pumpkin soup grain-free ,Weruva,Weruva,4.8,29.0,chunks in gravy
+85,16.80,5.25,cesar classics pate with turkey dog food trays,Cesar,Cesar,4.6,12.0,pate
+86,12.33,3.5,pedigree choice cuts filet mignon flavor in gravy wet dog food,Pedigree,Pedigree,4.8,5.0,chunks in gravy
+87,25.61,9.524999999999999,newman's own organics turkey & chicken formula ,Newman's Own Organics,Newman's Own Organics,4.9,38.0,pate
+88,25.99,9.75,dave's pet food 95% premium meats grain-free turkey recipe ,Dave's Pet Food,Dave's Pet Food,4.7,30.0,pate
+89,21.48,4.125,halo holistic chicken recipe adult ,Halo,Halo,4.7,56.0,stew
+91,32.28,9.75,wild calling western plains 96% beef grain-free adult ,Wild Calling,Wild Calling,4.7,22.0,pate
+92,36.99,8.25,blue buffalo homestyle recipe small breed lamb dinner ,Blue Buffalo,Blue Buffalo,4.8,30.0,pate
+93,32.63,9.75,canidae grain-free pure land lamb formula ,CANIDAE,CANIDAE,4.7,22.0,pate
+94,32.99,10.05,purina pro plan veterinary diets low fat en gastroenteric formula ,Purina Pro Plan Veterinary Diets,Purina,4.6,5.0,minced
+95,16.99,2.625,blue buffalo divine delights gravy variety pack filet mignon & ny strip flavor dog food trays,Blue Buffalo,Blue Buffalo,3.0,1.0,chunks in gravy
+96,20.49,9.9,"eukanuba adult chicken,rice & vegetables dinner formula ",Eukanuba,Eukanuba,4.7,12.0,minced
+97,13.99,9.9,pedigree chopped ground dinner weight management chicken & rice ,Pedigree,Pedigree,4.7,3.0,minced
+98,14.04,16.5,pedigree chopped ground dinner with beef ,Pedigree,Pedigree,4.5,11.0,minced
+99,13.99,2.625,blue buffalo divine delights steak & egg flavor pate dog food trays,Blue Buffalo,Blue Buffalo,3.0,3.0,pate
+100,37.99,10.05,purina pro plan veterinary diets en gastroenteric naturals ,Purina Pro Plan Veterinary Diets,Purina,4.8,20.0,minced
+101,33.99,9.0,newman's own organics grain-free beef & liver ,Newman's Own Organics,Newman's Own Organics,4.4,75.0,pate
+102,28.99,9.375,blue buffalo family favorite grain-free recipes turkey day feast ,Blue Buffalo,Blue Buffalo,4.6,18.0,stew
+103,22.55,9.600000000000001,evanger's classic recipes beef grain-free ,Evanger's,Evanger's,4.6,51.0,pate
+104,33.99,9.375,"wellness core grain-free turkey,pork liver & duck formula ",Wellness,Wellness,4.8,46.0,pate
+105,31.44,9.524999999999999,merrick backcountry grain-free chunky venison & beef dinner in gravy ,Merrick,Merrick,4.8,20.0,chunks in gravy
+106,41.18,9.75,halo holistic garden of vegan recipe adult ,Halo,Halo,4.6,31.0,pate
+107,20.49,9.375,eukanuba adult mixed grill chicken & beef dinner in gravy formula ,Eukanuba,Eukanuba,4.2,9.0,chunks in gravy
+108,42.46,8.25,evanger's grain-free hand packed whole chicken thighs ,Evanger's,Evanger's,4.5,38.0,chunks in gravy
+109,27.05,8.7,hill's science diet small & toy breed puppy chicken & barley entree ,Hill's Science Diet,Hill's,4.7,9.0,minced
+111,17.04,2.0999999999999996,weruva dogs in the kitchen lamburgini with lamb & pumpkin au jus grain-free dog food pouches,Weruva,Weruva,4.9,20.0,pate
+112,16.99,2.25,blue buffalo basics limited ingredient grain-free salmon & potato small breed adult wet dog food,Blue Buffalo,Blue Buffalo,3.7,18.0,pate
+113,20.99,9.75,purina one smartblend true instinct classic ground with real turkey & venison ,Purina ONE,Purina,4.6,7.0,pate
+114,5.94,0.875,"royal canin toy & miniature poodle adult ,3.5-oz,pack of 4",Royal Canin,Royal Canin,4.7,14.0,pate
+115,21.48,9.4,nutro large breed puppy tender chicken & turkey recipe bites in gravy ,Nutro,Nutro,4.8,27.0,chunks in gravy
+116,24.98,7.875,cesar steak & poultry lover's variety pack dog food trays,Cesar,Cesar,5.0,4.0,"pate, chunks in gravy"
+117,23.99,9.375,blue buffalo homestyle recipe large breed chicken dinner with garden vegetables ,Blue Buffalo,Blue Buffalo,4.8,22.0,pate
+118,17.28,8.25,mighty dog hearty pulled-style chicken dinner in gravy ,Mighty Dog,Mighty Dog,5.0,14.0,shredded
+119,10.79,4.6875,"nutro kitchen classics premium loaf variety pack: grass fed lamb & brown rice dinner and slow cooked chicken,rice & oatmeal dinner ",Nutro,Nutro,5.0,6.0,pate
+120,32.74,9.600000000000001,party animal cocolicious 95% organic turkey grain-free ,Party Animal,Party Animal,5.0,11.0,pate
+121,16.80,5.25,cesar sunrise breakfast with smoked bacon & egg dog food trays,Cesar,Cesar,4.8,13.0,pate
+122,10.68,9.9,pedigree puppy chopped ground dinner with lamb & rice ,Pedigree,Pedigree,5.0,4.0,minced
+123,35.88,9.75,zignature pork limited ingredient formula grain-free ,Zignature,Zignature,5.0,7.0,pate
+124,32.99,9.375,wellness complete health lamb & sweet potato formula ,Wellness,Wellness,4.6,31.0,pate
+125,10.58,3.75,purina beneful chopped blends variety pack wet dog food,Purina Beneful,Purina,,,shredded
+126,33.92,4.125,natural balance l.i.d. limited ingredient diets white fish & sweet potato formula flaked grain-free wet dog food,Natural Balance,Natural Balance,4.3,12.0,flaked
+127,15.24,9.75,purina one smartblend classic ground lamb & long grain rice entree adult ,Purina ONE,Purina,5.0,12.0,pate
+128,21.49,9.4,nutro adult kitchen classics  healthy dinner with lamb & vegetables ,Nutro,Nutro,4.5,28.0,pate
+129,18.96,9.75,purina pro plan focus adult large breed chicken & rice entree chunks in gravy ,Purina Pro Plan,Purina,4.2,13.0,chunks in gravy
+130,6.79,1.0,"blue buffalo earth's essentials pacific grill salmon & lentil recipe dog food roll,1-lb roll",Blue Buffalo,Blue Buffalo,4.0,5.0,pate
+131,24.99,9.6,evanger's super premium chicken dinner grain-free ,Evanger's,Evanger's,4.6,46.0,pate
+132,18.99,8.25,mighty dog hearty pulled-style in gravy variety pack ,Mighty Dog,Mighty Dog,4.8,13.0,shredded
+133,29.88,9.899999999999999,dave's pet food restricted diet protein & phosphorus farmyard blend in sauce grain-free ,Dave's Pet Food,Dave's Pet Food,4.2,43.0,pate
+134,22.24,5.0,purina pro plan bright mind adult 7+ beef & brown rice entree wet dog food,Purina Pro Plan,Purina,4.7,16.0,chunks in gravy
+135,19.28,9.375,eukanuba adult beef & vegetable stew ,Eukanuba,Eukanuba,4.7,13.0,stew
+136,8.38,2.625,cesar classics pate beef and chicken & liver multipack dog food trays,Cesar,Cesar,4.9,18.0,pate
+137,30.63,9.899999999999999,merrick classic grain-free brauts-n-tots recipe ,Merrick,Merrick,4.5,59.0,chunks in gravy
+138,10.99,9.9,pedigree chunky ground dinner with turkey & bacon ,Pedigree,Pedigree,4.0,1.0,minced
+139,29.52,9.524999999999999,castor & pollux organix grain-free butcher & bushel organic chicken wing & thigh dinner in gravy adult ,Castor & Pollux,Castor & Pollux,3.7,49.0,chunks in gravy
+140,32.79,8.25,hill's science diet adult 7+ small & toy breed youthful vitality chicken & vegetable stew ,Hill's Science Diet,Hill's,4.8,5.0,stew
+141,17.49,9.75,chicken soup for the soul puppy ,Chicken Soup,Chicken Soup,4.9,49.0,pate
+142,30.50,9.524999999999999,castor & pollux organix grain-free butcher & bushel organic carved turkey dinner in gravy adult ,Castor & Pollux,Castor & Pollux,4.4,28.0,chunks in gravy
+143,32.99,9.375,wellness simple limited ingredient diet duck & oatmeal formula ,Wellness,Wellness,4.6,23.0,pate
+144,22.56,0.929375,"purina beyond grain-free chicken,lamb & spinach recipe ground entree ",Purina Beyond,Purina,4.8,9.0,pate
+145,22.55,9.600000000000001,evanger's classic recipes beef with chicken & liver grain-free ,Evanger's,Evanger's,4.7,66.0,pate
+146,6.11,1.0,"blue buffalo earth's essentials mountaintop medley lamb & barley recipe dog food roll,1-lb roll",Blue Buffalo,Blue Buffalo,5.0,1.0,pate
+147,32.99,9.375,wellness simple limited ingredient diet lamb & oatmeal formula ,Wellness,Wellness,4.7,37.0,pate
+148,33.92,4.125,natural balance delectable delights duck'en-itas grain-free wet dog food,Natural Balance,Natural Balance,4.8,12.0,stew
+149,33.48,9.899999999999999,solid gold green cow tripe in beef broth grain-free ,Solid Gold,Solid Gold,4.6,59.0,minced
+150,46.95,10.5,"weruva wok the dog with chicken,beef & pumpkin in gravy grain-free ",Weruva,Weruva,4.7,38.0,chunks in gravy
+151,16.80,5.25,cesar gourmet filets in sauce filet mignon flavor dog food trays,Cesar,Cesar,4.8,20.0,chunks in gravy
+153,18.72,2.625,merrick lil' plates grain-free pint-sized puppy plate in gravy dog food trays,Merrick,Merrick,4.8,14.0,stew
+154,5.94,0.875,"royal canin dachshund adult ,3.5-oz,pack of 4",Royal Canin,Royal Canin,4.5,21.0,pate
+155,31.44,9.899999999999999,nature's logic canine chicken feast grain-free ,Nature's Logic,Nature's Logic,4.6,36.0,minced
+156,10.79,4.6875,nutro hearty stews chunks in gravy variety pack: meaty lamb & rice stew and chunky chicken & turkey stew ,Nutro,Nutro,3.7,6.0,chunks in gravy
+157,29.99,9.375,blue buffalo wilderness wolf creek stew savory salmon stew grain-free adult ,Blue Buffalo,Blue Buffalo,5.0,10.0,stew
+158,33.99,9.375,wellness core grain-free puppy formula ,Wellness,Wellness,4.6,41.0,pate
+159,42.49,9.375,hill's prescription diet derm defense environmental sensitivities chicken & vegetable stew ,Hill's Prescription Diet,Hill's,4.9,14.0,stew
+160,28.33,6.0,natural balance delectable delights gobbler cobbler stew grain-free wet dog food,Natural Balance,Natural Balance,4.6,23.0,stew
+161,9.20,9.9,"alpo prime cuts london grill & wholesome veggie accents in gravy ,13.2-oz,case of 12",ALPO,ALPO,4.6,8.0,chunks in gravy
+162,40.60,5.25,royal canin healthy development small breed puppy dog food trays,Royal Canin,Royal Canin,4.9,22.0,pate
+163,30.00,5.3,nutro puppy tender chicken & rice recipe bites in gravy dog food trays,Nutro,Nutro,4.8,24.0,stew
+164,33.99,9.375,wellness core grain-free hearty cuts in gravy beef & venison recipe ,Wellness,Wellness,4.7,15.0,chunks in gravy
+165,23.40,9.375,blue buffalo wilderness trout & chicken grill grain-free ,Blue Buffalo,Blue Buffalo,4.6,27.0,pate
+166,18.32,4.0,earthborn holistic duke's din-din grain-free natural moist dog food,Earthborn Holistic,Earthborn Holistic,4.7,25.0,shredded
+167,33.99,9.375,wellness turkey stew with barley & carrots ,Wellness,Wellness,4.7,47.0,stew
+168,2.50,0.5625,"purina beneful medleys mediterranean style ,3-oz,pack of 3",Purina Beneful,Purina,4.8,5.0,stew
+169,25.99,9.75,dave's pet food 95% premium meats grain-free beef recipe ,Dave's Pet Food,Dave's Pet Food,4.5,34.0,pate
+170,16.99,2.625,blue buffalo wilderness trail trays beef grill formula grain-free dog food trays,Blue Buffalo,Blue Buffalo,5.0,2.0,pate
+171,18.23,9.600000000000001,evanger's classic recipes senior & weight management dinner ,Evanger's,Evanger's,4.5,28.0,pate
+172,22.55,9.600000000000001,evanger's classic recipes chicken & rice ,Evanger's,Evanger's,4.9,41.0,pate
+173,47.88,9.75,zignature venison limited ingredient formula grain-free ,Zignature,Zignature,4.9,15.0,pate
+174,16.80,5.25,cesar classics pate with duck dog food trays,Cesar,Cesar,4.9,14.0,pate
+175,16.80,5.25,cesar classics pate with lamb dog food trays,Cesar,Cesar,4.8,12.0,pate
+176,22.24,5.0,purina pro plan bright mind adult 7+ turkey & brown rice entree wet dog food,Purina Pro Plan,Purina,4.7,15.0,chunks in gravy
+177,18.32,4.0,earthborn holistic toby's turkey dinner grain-free natural moist dog food,Earthborn Holistic,Earthborn Holistic,4.7,33.0,shredded
+178,21.63,9.75,iams proactive health senior with slow cooked chicken & rice ,Iams,Iams,4.9,15.0,pate
+179,32.99,9.375,blue buffalo basics limited ingredient grain-free duck & potato adult ,Blue Buffalo,Blue Buffalo,5.0,9.0,pate
+180,11.99,1.1,"caru free range chicken bone broth for dogs & cats,1.1-lb box",Caru,Caru,4.2,13.0,bits in broth
+181,8.38,2.625,cesar puppy pate multipack dog food trays,Cesar,Cesar,4.3,16.0,pate
+182,29.94,4.95,instinct by nature's variety limited ingredient diet grain-free rabbit formula ,Instinct,Instinct,4.7,23.0,pate
+183,31.44,9.524999999999999,merrick backcountry grain-free hearty duck & venison stew ,Merrick,Merrick,4.7,15.0,stew
+184,23.64,9.375,nutro ultra weight management chunks in gravy ,Nutro Ultra,Nutro,4.9,67.0,chunks in gravy
+185,18.72,2.625,merrick lil' plates grain-free tiny thanksgiving day dinner in gravy dog food trays,Merrick,Merrick,4.3,21.0,stew
+186,31.44,9.524999999999999,merrick limited ingredient diet grain-free real turkey recipe ,Merrick,Merrick,4.6,21.0,pate
+187,38.92,10.5,weruva funky chunky chicken soup with pumpkin grain-free ,Weruva,Weruva,4.7,37.0,chunks in gravy
+188,33.99,9.375,wellness lamb & beef stew with brown rice & apples ,Wellness,Wellness,4.6,49.0,stew
+189,23.88,9.75,canidae life stages all life stages formula ,CANIDAE,CANIDAE,4.7,43.0,pate
+190,26.33,9.6,evanger's super premium beef dinner grain-free ,Evanger's,Evanger's,4.6,58.0,pate
+191,40.60,5.25,royal canin beauty adult healthy skin & coat small breed dog food trays,Royal Canin,Royal Canin,5.0,8.0,pate
+192,13.99,2.625,blue buffalo divine delights roasted turkey flavor pate dog food trays,Blue Buffalo,Blue Buffalo,4.1,7.0,pate
+193,24.98,7.875,cesar poultry lover's variety pack dog food trays,Cesar,Cesar,5.0,5.0,"pate, chunks in gravy"
+194,2.50,0.5625,"purina beneful medleys romana style ,3-oz,pack of 3",Purina Beneful,Purina,4.5,10.0,stew
+195,16.80,5.25,cesar savory delights ham & egg dog food trays,Cesar,Cesar,4.7,16.0,pate
+196,29.52,9.524999999999999,castor & pollux organix grain-free butcher & bushel organic chopped turkey & chicken dinner adult ,Castor & Pollux,Castor & Pollux,4.5,30.0,chunks in gravy
+197,50.14,8.7,royal canin veterinary diet recovery rs canned dog & cat food,Royal Canin Veterinary Diet,Royal Canin,5.0,44.0,pate
+198,21.49,9.4,nutro adult kitchen classics rustic chicken & vegetable dinner ,Nutro,Nutro,4.7,35.0,pate
+199,21.19,8.25,purina pro plan focus puppy classic chicken & brown rice entree ,Purina Pro Plan,Purina,4.7,17.0,pate
+200,26.33,9.6,evanger's super premium duck & sweet potato dinner ,Evanger's,Evanger's,4.6,72.0,pate
+201,8.88,9.9,"alpo prime cuts with beef in gravy ,13.2-oz,case of 12",ALPO,ALPO,4.6,9.0,chunks in gravy
+202,14.47,2.0999999999999996,weruva dogs in the kitchen fowl ball with chicken breast & turkey au jus grain-free dog food pouches,Weruva,Weruva,4.6,13.0,bits in broth
+203,16.80,5.25,cesar senior with chicken & rice dog food trays,Cesar,Cesar,4.8,35.0,pate
+204,16.99,2.625,blue buffalo wilderness trail trays variety pack with duck & chicken formula grain-free dog food trays,Blue Buffalo,Blue Buffalo,5.0,1.0,pate
+205,19.98,9.75,purina one smartblend tender cuts in gravy beef & barley entree adult ,Purina ONE,Purina,5.0,5.0,chunks in gravy
+206,31.44,9.899999999999999,merrick grain-free 96% real duck ,Merrick,Merrick,4.7,40.0,pate
+207,18.72,2.625,merrick lil' plates grain-free itsy bitsy beef stew dog food trays,Merrick,Merrick,4.7,18.0,stew
+208,16.80,5.25,cesar savory delights rotisserie chicken dog food trays,Cesar,Cesar,4.9,19.0,pate
+209,11.79,4.0,redbarn naturals lamb recipe dog food roll,Redbarn,Redbarn,4.4,79.0,pate
+210,13.99,2.625,blue buffalo divine delights grilled chicken flavor pate dog food trays,Blue Buffalo,Blue Buffalo,4.5,6.0,pate
+211,27.76,9.375,blue buffalo freedom grillers hearty lamb dinner grain-free ,Blue Buffalo,Blue Buffalo,4.4,18.0,chunks in gravy
+212,8.38,2.625,cesar classics pate beef & poultry multipack dog food trays,Cesar,Cesar,5.0,20.0,pate
+213,33.99,4.5,"wellness petite entrees mini-filets with tender turkey,green beans & white sweet potatoes in gravy grain-free wet dog food",Wellness,Wellness,4.8,23.0,chunks in gravy
+214,20.58,4.95,instinct by nature's variety limited ingredient diet grain-free turkey formula ,Instinct,Instinct,4.7,37.0,pate
+215,19.38,4.95,instinct by nature's variety grain-free beef formula ,Instinct,Instinct,4.6,57.0,pate
+216,31.44,9.524999999999999,merrick backcountry grain-free hearty chicken thigh stew ,Merrick,Merrick,4.6,29.0,stew
+217,16.80,5.25,cesar classics pate grilled chicken dog food trays,Cesar,Cesar,4.6,9.0,pate
+218,28.99,9.375,blue buffalo family favorite grain-free recipes shepherd's pie ,Blue Buffalo,Blue Buffalo,4.5,22.0,stew
+219,21.24,9.524999999999999,whole earth farms grain-free adult recipe ,Whole Earth Farms,Whole Earth Farms,4.6,77.0,pate
+220,39.49,9.899999999999999,wellness 95% salmon grain-free ,Wellness,Wellness,4.6,56.0,pate
+221,34.68,9.0,newman's own organics grain-free beef ,Newman's Own Organics,Newman's Own Organics,4.5,48.0,pate
+222,30.50,9.524999999999999,castor & pollux organix grain-free organic chicken & vegetable recipe adult ,Castor & Pollux,Castor & Pollux,4.7,33.0,pate
+223,53.99,8.25,"hill's prescription diet i/d digestive care stress rice,vegetable & chicken stew ",Hill's Prescription Diet,Hill's,4.8,23.0,stew
+224,31.44,9.524999999999999,merrick limited ingredient diet grain-free real duck recipe ,Merrick,Merrick,4.7,18.0,pate
+225,2.50,0.5625,"purina beneful medleys tuscan style ,3-oz,pack of 3",Purina Beneful,Purina,4.2,9.0,stew
+226,31.21,9.6,evanger's grain-free wild salmon canned dog & cat food,Evanger's,Evanger's,4.4,90.0,pate
+227,14.32,5.0,"purina beneful prepared meals simmered chicken medley with green beans,carrots & wild rice wet dog food",Purina Beneful,Purina,4.9,10.0,stew
+228,35.88,9.75,zignature zssential multi-protein formula grain-free ,Zignature,Zignature,4.8,41.0,pate
+229,11.78,13.2,pedigree chopped ground dinner weight management with beef & liver ,Pedigree,Pedigree,4.4,9.0,minced
+230,30.02,5.25,"nutro ultra senior pate chicken,lamb & salmon entree dog food trays",Nutro Ultra,Nutro,4.7,27.0,pate
+231,8.94,3.9375,"pedigree chopped ground dinner variety pack with chicken,beef & bacon wet dog food",Pedigree,Pedigree,4.7,6.0,minced
+232,24.99,9.375,blue buffalo freedom adult lamb recipe grain-free ,Blue Buffalo,Blue Buffalo,5.0,23.0,pate
+233,35.88,9.75,zignature trout & salmon limited ingredient formula grain-free ,Zignature,Zignature,4.7,44.0,pate
+234,14.16,5.0,"purina beneful chopped blends with chicken,liver,peas,brown rice & sweet potatoes wet dog food,10-oz container,case of 8",Purina Beneful,Purina,4.9,9.0,shredded
+235,27.99,9.375,blue buffalo freedom grillers hearty chicken dinner grain-free ,Blue Buffalo,Blue Buffalo,4.7,25.0,chunks in gravy
+236,41.49,11.4,hill's prescription diet d/d skin/food sensitivities salmon formula ,Hill's Prescription Diet,Hill's,4.7,29.0,pate
+237,15.12,4.0,rachael ray nutrish natural rustic duck stew natural wet dog food,Rachael Ray Nutrish,Rachael Ray Nutrish,4.6,17.0,stew
+238,9.47,3.5,natural balance chicken formula dog food roll,Natural Balance,Natural Balance,4.4,79.0,pate
+239,7.99,4.875,purina one smartblend classic ground entree variety pack adult ,Purina ONE,Purina,4.8,11.0,pate
+240,16.80,5.25,cesar home delights slow cooked chicken dog food trays,Cesar,Cesar,4.5,11.0,chunks in gravy
+241,32.99,9.75,hill's prescription diet h/d heart care with chicken ,Hill's Prescription Diet,Hill's,4.8,34.0,pate
+242,30.02,5.25,"nutro ultra small breed adult pate chicken,lamb & salmon entree dog food trays",Nutro Ultra,Nutro,4.6,19.0,pate
+243,16.80,5.25,cesar sunrise breakfast scrambled egg & sausage dog food trays,Cesar,Cesar,4.7,22.0,pate
+244,17.17,9.375,"nutro max puppy chicken,lamb & rice formula ",Nutro Max,Nutro,4.4,27.0,pate
+245,13.99,2.625,"blue buffalo divine delights bacon,egg & cheese pate dog food trays",Blue Buffalo,Blue Buffalo,3.7,3.0,pate
+246,13.04,5.0,"purina beneful chopped blends with turkey,sweet potatoes,brown rice & spinach wet dog food,10-oz container,case of 8",Purina Beneful,Purina,5.0,4.0,shredded
+247,31.44,9.524999999999999,merrick backcountry grain-free alpine rabbit stew ,Merrick,Merrick,4.8,36.0,stew
+248,30.96,8.25,health extension meaty mix chicken grain-free ,Health Extension,Health Extension,4.8,29.0,pate
+249,32.99,9.375,wellness complete health venison & sweet potato formula ,Wellness,Wellness,4.4,44.0,pate
+250,33.99,9.375,"wellness core grain-free whitefish,salmon & herring formula ",Wellness,Wellness,4.4,78.0,pate
+251,26.89,9.4,nutro limited ingredient diet grain-free adult farm raised turkey & potato recipe ,Nutro,Nutro,4.8,20.0,pate
+252,29.99,9.375,blue buffalo wilderness wolf creek stew hearty duck stew grain-free adult ,Blue Buffalo,Blue Buffalo,4.8,33.0,stew
+253,23.99,9.375,blue buffalo homestyle recipe fish & sweet potato dinner with garden vegetables ,Blue Buffalo,Blue Buffalo,4.3,28.0,pate
+254,23.64,9.375,nutro ultra puppy chunks in gravy ,Nutro Ultra,Nutro,4.8,29.0,chunks in gravy
+255,32.40,4.800000000000001,merrick classic grain-free grammy's pot pie toy & small breed recipe ,Merrick,Merrick,4.5,63.0,chunks in gravy
+256,34.48,8.7,royal canin puppy appetite stimulation ,Royal Canin,Royal Canin,4.8,42.0,pate
+257,23.88,9.75,canidae life stages platinum formula ,CANIDAE,CANIDAE,4.7,65.0,pate
+258,22.13,9.375,"hill's science diet adult 7+ healthy cuisine braised beef,carrots & peas stew ",Hill's Science Diet,Hill's,4.7,11.0,stew
+259,22.55,9.600000000000001,evanger's classic recipes cooked chicken grain-free ,Evanger's,Evanger's,4.5,107.0,pate
+260,35.88,9.75,zignature duck limited ingredient formula grain-free ,Zignature,Zignature,4.7,41.0,pate
+261,32.99,9.75,hill's prescription diet j/d joint care with lamb ,Hill's Prescription Diet,Hill's,4.4,30.0,pate
+262,34.48,8.7,royal canin weight care adult ,Royal Canin,Royal Canin,5.0,18.0,pate
+263,8.25,4.125,"mighty dog savory steak flavor,rotisserie chicken flavor & chicken,egg & bacon country platter variety pack ",Mighty Dog,Mighty Dog,4.5,15.0,minced
+264,35.88,9.75,zignature turkey limited ingredient formula grain-free ,Zignature,Zignature,4.8,33.0,pate
+265,16.99,2.25,blue buffalo basics limited ingredient grain-free lamb & potato small breed adult wet dog food,Blue Buffalo,Blue Buffalo,4.5,21.0,pate
+266,18.98,9.375,"nutro max adult chicken,rice & lamb dinner ",Nutro Max,Nutro,4.8,25.0,pate
+267,32.99,9.375,wellness complete health turkey & sweet potato formula ,Wellness,Wellness,4.6,48.0,pate
+268,27.35,9.524999999999999,newman's own organics chicken & brown rice formula ,Newman's Own Organics,Newman's Own Organics,5.0,45.0,pate
+269,17.49,9.75,chicken soup for the soul mature ,Chicken Soup,Chicken Soup,4.8,59.0,pate
+270,18.91,9.75,purina pro plan focus adult large breed beef & rice entree chunks in gravy ,Purina Pro Plan,Purina,4.4,23.0,chunks in gravy
+271,8.16,9.9,"alpo  prime cuts stew with beef & vegetables in gravy ,13.2-oz,case of 12",ALPO,ALPO,4.8,9.0,chunks in gravy
+272,58.10,15.0,nature's recipe grain-free chicken & turkey stew ,Nature's Recipe,Nature's Recipe,4.9,25.0,stew
+273,23.59,9.75,natural balance ultra premium lamb formula ,Natural Balance,Natural Balance,4.8,52.0,pate
+274,30.90,4.125,nature's recipe grain-free chicken & venison recipe in broth wet dog food,Nature's Recipe,Nature's Recipe,5.0,25.0,bits in broth
+275,18.32,4.0,earthborn holistic chip's chicken casserole grain-free natural moist dog food,Earthborn Holistic,Earthborn Holistic,4.6,49.0,shredded
+276,26.89,9.4,nutro limited ingredient diet grain-free adult lamb & potato recipe ,Nutro,Nutro,4.9,18.0,pate
+277,22.13,9.600000000000001,hill's science diet adult perfect weight chicken & vegetables entree ,Hill's Science Diet,Hill's,4.3,31.0,minced
+278,39.49,9.899999999999999,wellness 95% lamb grain-free ,Wellness,Wellness,4.8,62.0,pate
+279,22.55,9.600000000000001,evanger's classic recipes beef & bacon grain-free ,Evanger's,Evanger's,4.6,99.0,pate
+280,14.89,9.75,purina one smartblend classic ground beef & brown rice entree adult ,Purina ONE,Purina,4.4,16.0,pate
+281,16.80,5.25,cesar sunrise breakfast grilled steak & eggs dog food trays,Cesar,Cesar,4.8,14.0,pate
+282,10.68,9.9,pedigree puppy chopped ground dinner with chicken & beef ,Pedigree,Pedigree,4.2,13.0,minced
+283,26.33,9.6,evanger's low fat vegetarian dinner canned dog & cat food,Evanger's,Evanger's,4.2,93.0,pate
+284,40.68,9.75,petkind tripett original formula green beef tripe grain-free ,PetKind,PetKind,4.7,126.0,pate
+285,4.94,0.875,nutro petite eats multipack roasted turkey & vegetable entrée cuts in gravy dog food trays,Nutro,Nutro,5.0,4.0,chunks in gravy
+286,18.85,9.600000000000001,hill's science diet puppy savory stew with chicken & vegetables ,Hill's Science Diet,Hill's,4.5,28.0,stew
+287,21.00,9.375,purina beyond beef & spinach recipe in gravy grain-free ,Purina Beyond,Purina,4.4,34.0,chunks in gravy
+288,29.99,9.375,blue buffalo wilderness rocky mountain recipe red meat dinner senior grain-free ,Blue Buffalo,Blue Buffalo,4.7,23.0,pate
+289,9.47,3.5,natural balance lamb & chicken formula dog food roll,Natural Balance,Natural Balance,4.4,137.0,pate
+290,34.48,8.7,royal canin mature 8+ ,Royal Canin,Royal Canin,4.8,44.0,pate
+291,64.59,20.25,royal canin veterinary diet renal support e ,Royal Canin Veterinary Diet,Royal Canin,4.7,58.0,pate
+292,66.49,20.1,royal canin veterinary diet satiety support ,Royal Canin Veterinary Diet,Royal Canin,4.8,28.0,pate
+293,24.99,9.375,blue buffalo freedom puppy chicken recipe grain-free ,Blue Buffalo,Blue Buffalo,4.8,62.0,pate
+294,14.28,16.5,"pedigree chopped ground dinner combo with chicken,beef & liver ",Pedigree,Pedigree,5.0,6.0,minced
+295,18.32,4.5,earthborn holistic pepper's pot roast grain-free natural moist dog food,Earthborn Holistic,Earthborn Holistic,4.7,52.0,shredded
+296,27.44,10.125,royal canin puppy ,Royal Canin,Royal Canin,4.8,14.0,pate
+297,18.85,9.75,hill's science diet adult turkey & barley entree ,Hill's Science Diet,Hill's,4.5,28.0,minced
+298,28.48,9.375,"blue buffalo wilderness denali dinner with wild salmon,venison & halibut grain-free ",Blue Buffalo,Blue Buffalo,4.5,25.0,pate
+299,28.99,9.375,blue buffalo blue's tasty turkey stew grain free ,Blue Buffalo,Blue Buffalo,4.4,41.0,stew
+300,71.39,20.4,royal canin veterinary diet selected protein adult pw ,Royal Canin Veterinary Diet,Royal Canin,4.3,28.0,pate
+301,32.99,9.375,wellness complete health just for puppy ,Wellness,Wellness,4.8,79.0,pate
+302,13.99,2.5,blue buffalo divine delights new york strip flavor hearty gravy dog food trays,Blue Buffalo,Blue Buffalo,5.0,4.0,chunks in gravy
+303,31.44,9.899999999999999,merrick classic grain-free puppy plate recipe ,Merrick,Merrick,4.7,80.0,chunks in gravy
+304,30.02,5.3,nutro adult petite eats savory lamb & garden variety entree cuts in gravy dog food trays,Nutro,Nutro,4.9,31.0,stew
+305,17.17,9.375,nutro max adult beef & rice dinner ,Nutro Max,Nutro,4.5,31.0,pate
+306,4.94,0.875,nutro petite eats multipack signature beef & potato entrée cuts in gravy dog food trays,Nutro,Nutro,5.0,3.0,chunks in gravy
+307,31.44,9.524999999999999,merrick chunky grain-free pappy's pot roast dinner ,Merrick,Merrick,4.3,58.0,chunks in gravy
+308,16.80,5.25,cesar classics pate filet mignon flavor dog food trays,Cesar,Cesar,4.9,19.0,pate
+309,16.80,5.25,cesar classics pate with chicken & liver dog food trays,Cesar,Cesar,4.9,27.0,pate
+310,23.21,9.75,canidae grain-free pure sky duck & turkey formula ,CANIDAE,CANIDAE,4.3,34.0,pate
+311,8.98,9.9,pedigree chopped ground dinner & chunky ground dinner variety pack ,Pedigree,Pedigree,5.0,2.0,minced
+312,8.38,2.625,cesar home delights porterhouse steak & ribeye steak variety pack dog food trays,Cesar,Cesar,5.0,8.0,pate
+313,47.88,9.75,zignature kangaroo limited ingredient formula grain-free ,Zignature,Zignature,4.6,56.0,pate
+314,47.14,10.5,"weruva steak frites with beef,pumpkin & sweet potatoes in gravy grain-free ",Weruva,Weruva,4.8,46.0,chunks in gravy
+315,22.13,9.375,"hill's science diet adult 7+ healthy cuisine roasted chicken,carrots & spinach stew ",Hill's Science Diet,Hill's,4.7,32.0,stew
+316,67.99,21.75,royal canin veterinary diet hepatic ,Royal Canin Veterinary Diet,Royal Canin,4.8,53.0,pate
+317,7.64,0.21875,purina bella filet mignon & porter house steak flavor variety pack small breed dog food,Purina Bella,Purina,4.5,11.0,pate
+318,32.99,9.375,wellness complete health senior formula ,Wellness,Wellness,4.6,46.0,pate
+319,24.99,9.375,blue buffalo freedom senior chicken recipe grain-free ,Blue Buffalo,Blue Buffalo,4.6,32.0,pate
+320,21.24,9.524999999999999,whole earth farms grain-free hearty duck stew ,Whole Earth Farms,Whole Earth Farms,4.7,44.0,stew
+321,17.98,9.899999999999999,nature's recipe healthy skin vegetarian recipe cuts in gravy stew ,Nature's Recipe,Nature's Recipe,4.4,54.0,stew
+322,36.99,9.75,hill's prescription diet s/d urinary care original ,Hill's Prescription Diet,Hill's,4.4,58.0,pate
+323,31.44,9.524999999999999,merrick limited ingredient diet grain-free real lamb recipe ,Merrick,Merrick,4.6,21.0,pate
+324,39.99,8.25,blue buffalo freedom small breed adult chicken recipe grain-free ,Blue Buffalo,Blue Buffalo,4.8,48.0,pate
+325,31.44,9.524999999999999,merrick limited ingredient diet grain-free real salmon recipe ,Merrick,Merrick,4.5,42.0,pate
+326,35.88,9.75,zignature lamb limited ingredient formula grain-free ,Zignature,Zignature,4.4,45.0,pate
+327,21.49,9.4,nutro adult hearty stews healthy chicken & rice stew chunks in gravy ,Nutro,Nutro,4.8,15.0,chunks in gravy
+328,33.92,4.125,natural balance l.i.d. limited ingredient diets chicken & sweet potato formula shreds grain-free wet dog food,Natural Balance,Natural Balance,4.9,16.0,shredded
+330,36.99,8.25,blue buffalo homestyle recipe small breed chicken dinner ,Blue Buffalo,Blue Buffalo,5.0,42.0,pate
+331,16.99,2.25,blue buffalo basics limited ingredient grain-free turkey & potato small breed adult wet dog food,Blue Buffalo,Blue Buffalo,4.2,19.0,pate
+332,32.99,9.375,blue buffalo basics limited ingredient grain-free lamb & potato adult ,Blue Buffalo,Blue Buffalo,4.7,42.0,pate
+333,39.49,9.375,hill's prescription diet metabolic weight management vegetable & chicken stew ,Hill's Prescription Diet,Hill's,4.9,34.0,stew
+334,31.44,9.524999999999999,merrick chunky grain-free colossal chicken dinner ,Merrick,Merrick,4.6,59.0,chunks in gravy
+335,33.99,4.5,"wellness petite entrees mini-filets with roasted chicken,beef,carrots & green beans in gravy grain-free wet dog food",Wellness,Wellness,4.7,33.0,chunks in gravy
+336,57.79,20.25,royal canin veterinary diet renal support t ,Royal Canin Veterinary Diet,Royal Canin,4.6,93.0,pate
+337,4.94,0.875,nutro petite eats multipack chef inspired chicken entrée cuts in gravy dog food trays,Nutro,Nutro,4.3,6.0,chunks in gravy
+338,14.56,5.0,"purina beneful prepared meals simmered beef entree with carrots,barley,wild rice & spinach wet dog food",Purina Beneful,Purina,4.4,9.0,stew
+339,32.63,9.6,evanger's grain-free rabbit canned dog & cat food,Evanger's,Evanger's,4.2,112.0,pate
+340,18.85,9.75,hill's science diet puppy chicken & barley entree ,Hill's Science Diet,Hill's,4.6,46.0,minced
+341,32.99,9.375,wellness simple limited ingredient diet grain-free turkey & potato formula ,Wellness,Wellness,4.5,62.0,pate
+342,15.89,5.0,"purina beneful prepared meals roasted turkey medley with corn,wild rice,peas & barley wet dog food",Purina Beneful,Purina,4.9,10.0,stew
+343,8.16,9.9,"alpo prime cuts with turkey & bacon in gravy ,13.2-oz,case of 12",ALPO,ALPO,4.6,8.0,chunks in gravy
+344,17.49,9.75,chicken soup for the soul adult ,Chicken Soup,Chicken Soup,4.7,78.0,pate
+345,7.99,0.8125,purina one smartblend true instinct tender cuts in gravy variety pack ,Purina ONE,Purina,4.9,13.0,chunks in gravy
+346,30.02,5.3,nutro adult petite eats roasted turkey & vegetable entree cuts in gravy dog food trays,Nutro,Nutro,4.8,29.0,stew
+347,32.99,9.375,wellness complete health chicken & sweet potato formula ,Wellness,Wellness,4.6,48.0,pate
+348,23.59,9.75,"natural balance original ultra whole body health reduced calorie chicken,salmon & duck formula ",Natural Balance,Natural Balance,4.4,69.0,pate
+349,36.99,9.975000000000001,purina pro plan veterinary diets ur urinary ox/st ,Purina Pro Plan Veterinary Diets,Purina,4.9,38.0,minced
+350,14.64,4.0,rachael ray nutrish natural savory lamb stew natural wet dog food,Rachael Ray Nutrish,Rachael Ray Nutrish,4.7,30.0,chunks in gravy
+351,7.00,4.125,mighty dog porterhouse steak flavor & tenderloin tips flavor in gravy variety pack ,Mighty Dog,Mighty Dog,4.5,19.0,chunks in gravy
+352,5.94,0.875,"royal canin chihuahua adult ,3.5-oz,pack of 4",Royal Canin,Royal Canin,4.6,27.0,pate
+353,14.04,16.5,pedigree chopped ground dinner with chicken ,Pedigree,Pedigree,4.9,15.0,minced
+354,18.61,5.0,"purina beneful chopped blends with salmon,sweet potatoes,brown rice & spinach wet dog food,10-oz container,case of 8",Purina Beneful,Purina,4.7,20.0,shredded
+355,25.99,9.375,blue buffalo basics limited ingredient grain-free turkey & potato senior ,Blue Buffalo,Blue Buffalo,4.9,23.0,pate
+356,13.99,2.625,blue buffalo divine delights prime rib flavor hearty gravy dog food trays,Blue Buffalo,Blue Buffalo,5.0,6.0,chunks in gravy
+357,10.68,9.899999999999999,pedigree choice cuts in gravy country stew ,Pedigree,Pedigree,4.6,14.0,"stew, chunks in gravy"
+358,13.41,5.0,"purina beneful prepared meals beef & chicken medley with green beans,carrots & wild rice wet dog food",Purina Beneful,Purina,4.7,10.0,stew
+359,14.64,4.0,rachael ray nutrish natural beef stroganwoof natural wet dog food,Rachael Ray Nutrish,Rachael Ray Nutrish,4.2,32.0,chunks in gravy
+360,24.03,9.375,blue buffalo freedom adult beef recipe grain-free  ,Blue Buffalo,Blue Buffalo,4.7,24.0,pate
+361,18.72,2.625,merrick lil' plates grain-free teeny texas steak tips in gravy dog food trays,Merrick,Merrick,4.6,33.0,stew
+362,33.99,9.75,hill's prescription diet g/d aging care turkey flavor ,Hill's Prescription Diet,Hill's,4.7,32.0,pate
+363,20.04,9.75,natural balance ultra premium liver formula ,Natural Balance,Natural Balance,4.8,64.0,pate
+364,21.49,9.4,nutro adult kitchen classics grass fed lamb & brown rice ,Nutro,Nutro,4.3,25.0,pate
+365,21.24,9.524999999999999,whole earth farms grain-free hearty chicken stew ,Whole Earth Farms,Whole Earth Farms,4.5,81.0,stew
+366,8.38,2.625,cesar classics pate beef multipack dog food trays,Cesar,Cesar,4.9,27.0,pate
+367,28.99,9.375,blue buffalo family favorite grain-free recipes backyard bbq ,Blue Buffalo,Blue Buffalo,4.8,30.0,stew
+368,21.24,9.524999999999999,whole earth farms grain-free hearty turkey stew ,Whole Earth Farms,Whole Earth Farms,4.5,94.0,stew
+369,33.99,9.375,"wellness core grain-free beef,venison & lamb formula ",Wellness,Wellness,4.5,93.0,pate
+370,33.99,9.899999999999999,wellness 95% turkey grain-free ,Wellness,Wellness,4.7,77.0,pate
+371,6.99,4.125,"mighty dog hearty beef dinner,chicken & smoked bacon combo & lamb & rice variety pack ",Mighty Dog,Mighty Dog,4.8,16.0,minced
+372,21.99,9.4,nutro senior hearty stews grandpa's country stew with chicken & turkey chunks in gravy ,Nutro,Nutro,4.7,23.0,chunks in gravy
+373,17.64,9.375,purina beyond turkey & green bean recipe in gravy grain-free ,Purina Beyond,Purina,4.8,25.0,chunks in gravy
+376,39.49,9.375,hill's prescription diet metabolic weight management vegetable & beef stew ,Hill's Prescription Diet,Hill's,4.7,32.0,stew
+377,27.99,7.875,cesar classics in meaty juices variety pack dog food trays,Cesar,Cesar,5.0,9.0,pate
+379,19.38,4.95,instinct by nature's variety grain-free chicken formula ,Instinct,Instinct,4.7,84.0,pate
+380,23.88,9.75,canidae life stages chicken & rice formula ,CANIDAE,CANIDAE,4.8,65.0,pate
+381,18.96,9.75,purina pro plan savor adult turkey & vegetables entree slices in gravy ,Purina Pro Plan,Purina,4.6,30.0,chunks in gravy
+382,25.99,9.375,nutro ultra large breed adult chunks in gravy ,Nutro Ultra,Nutro,4.6,15.0,chunks in gravy
+383,21.24,9.524999999999999,whole earth farms grain-free hearty salmon stew ,Whole Earth Farms,Whole Earth Farms,4.6,53.0,stew
+384,31.44,9.899999999999999,merrick classic grain-free venison holiday stew recipe ,Merrick,Merrick,4.7,75.0,chunks in gravy
+385,13.52,5.0,"purina beneful prepared meals chicken stew with rice,carrots,peas & barley wet dog food",Purina Beneful,Purina,4.9,13.0,stew
+386,30.02,5.3,nutro adult petite eats signature beef & potato entree cuts in gravy dog food trays,Nutro,Nutro,4.7,34.0,stew
+387,21.49,9.4,"nutro adult kitchen classics slow cooked chicken,rice & oatmeal dinner ",Nutro,Nutro,4.7,43.0,pate
+388,22.13,9.375,"hill's science diet adult healthy cuisine braised beef,carrots & peas stew ",Hill's Science Diet,Hill's,4.8,12.0,stew
+389,27.99,9.375,blue buffalo freedom grillers hearty beef dinner grain-free ,Blue Buffalo,Blue Buffalo,4.7,30.0,chunks in gravy
+390,8.94,3.9375,"pedigree chopped ground dinner variety pack with chicken,filet mignon & beef wet dog food",Pedigree,Pedigree,4.7,9.0,minced
+391,5.94,0.75,"royal canin yorkshire terrier adult ,3-oz,pack of 4",Royal Canin,Royal Canin,5.0,35.0,pate
+392,34.48,8.7,royal canin beauty adult ,Royal Canin,Royal Canin,4.8,38.0,pate
+393,14.12,5.0,"purina beneful prepared meals roasted chicken recipe with pasta,carrots & spinach wet dog food",Purina Beneful,Purina,4.2,16.0,stew
+394,18.96,9.75,purina pro plan savor adult chicken & vegetables entree slices in gravy ,Purina Pro Plan,Purina,4.6,32.0,chunks in gravy
+395,8.49,9.9,"alpo prime cuts with lamb & rice in gravy ,13.2-oz,case of 12",ALPO,ALPO,4.8,16.0,chunks in gravy
+396,45.49,9.375,hill's prescription diet metabolic weight + mobility tuna & vegetable stew ,Hill's Prescription Diet,Hill's,4.6,30.0,stew
+397,15.24,9.75,purina one smartblend tender cuts in gravy lamb & brown rice entree adult ,Purina ONE,Purina,4.9,19.0,chunks in gravy
+398,19.99,9.75,purina pro plan savor grain-free adult beef & peas entree ,Purina Pro Plan,Purina,4.8,33.0,pate
+399,17.16,9.375,nutro max senior chicken & rice dinner ,Nutro Max,Nutro,4.7,53.0,pate
+400,9.47,3.5,natural balance duck & turkey formula dog food roll,Natural Balance,Natural Balance,4.5,133.0,pate
+401,27.00,9.375,blue buffalo wilderness rocky mountain recipe red meat dinner puppy grain-free ,Blue Buffalo,Blue Buffalo,4.6,48.0,pate
+402,10.68,9.9,pedigree chopped ground dinner chicken & rice dinner ,Pedigree,Pedigree,4.9,12.0,minced
+403,18.85,9.75,hill's science diet adult light with liver ,Hill's Science Diet,Hill's,4.8,42.0,minced
+404,9.33,4.875,purina one smartblend tender cuts in gravy entree variety pack adult ,Purina ONE,Purina,4.6,27.0,chunks in gravy
+405,14.64,4.0,rachael ray nutrish natural chicken muttballs with pasta natural wet dog food,Rachael Ray Nutrish,Rachael Ray Nutrish,4.7,32.0,chunks in gravy
+406,21.24,9.524999999999999,whole earth farms grain-free red meat recipe ,Whole Earth Farms,Whole Earth Farms,4.3,139.0,pate
+407,27.05,8.7,hill's science diet adult 7+ small & toy breed chicken & barley entree ,Hill's Science Diet,Hill's,4.6,26.0,minced
+408,34.49,9.75,hill's prescription diet k/d kidney care with lamb ,Hill's Prescription Diet,Hill's,4.3,59.0,pate
+409,33.99,9.375,wellness core grain-free weight management formula ,Wellness,Wellness,4.7,103.0,pate
+411,21.45,4.125,nature's recipe chicken recipe in broth wet dog food,Nature's Recipe,Nature's Recipe,4.9,37.0,bits in broth
+412,17.17,9.375,"nutro max adult chicken,rice & turkey dinner ",Nutro Max,Nutro,4.7,33.0,pate
+413,31.44,9.899999999999999,merrick grain-free 96% real beef ,Merrick,Merrick,4.5,72.0,pate
+414,14.64,4.0,rachael ray nutrish natural chicken paw pie natural wet dog food,Rachael Ray Nutrish,Rachael Ray Nutrish,4.3,42.0,chunks in gravy
+415,24.98,7.875,cesar steak lover's variety pack dog food trays,Cesar,Cesar,4.7,6.0,"pate, chunks in gravy"
+416,22.36,9.75,"canidae grain-free pure elements lamb,turkey & chicken formula ",CANIDAE,CANIDAE,4.6,40.0,pate
+417,28.99,9.375,blue buffalo blue's irish lamb stew grain free ,Blue Buffalo,Blue Buffalo,4.3,94.0,stew
+418,26.16,9.375,blue buffalo family favorite grain-free recipes sunday chicken dinner ,Blue Buffalo,Blue Buffalo,4.9,32.0,stew
+419,21.49,9.4,nutro adult hearty stews chunky chicken & turkey stew chunks in gravy ,Nutro,Nutro,5.0,22.0,chunks in gravy
+420,16.80,5.25,cesar savory delights variety pack dog food trays,Cesar,Cesar,4.9,12.0,pate
+421,18.96,9.75,purina pro plan savor adult lamb & vegetables entree slices in gravy ,Purina Pro Plan,Purina,4.7,42.0,chunks in gravy
+422,25.99,9.375,blue buffalo wilderness healthy weight turkey & chicken grill grain-free adult ,Blue Buffalo,Blue Buffalo,4.7,47.0,pate
+423,13.99,2.625,blue buffalo divine delights pate variety pack filet mignon & porterhouse flavor dog food trays,Blue Buffalo,Blue Buffalo,3.6,8.0,pate
+424,27.44,10.125,royal canin adult ,Royal Canin,Royal Canin,4.8,19.0,pate
+426,15.00,9.75,purina one smartblend classic ground chicken & brown rice entree adult ,Purina ONE,Purina,4.6,39.0,pate
+427,18.85,9.75,hill's science diet adult beef & barley entree ,Hill's Science Diet,Hill's,4.7,30.0,minced
+428,41.49,9.75,hill's prescription diet d/d skin/food sensitivities duck formula ,Hill's Prescription Diet,Hill's,4.3,26.0,pate
+429,58.64,20.25,royal canin veterinary diet renal support d ,Royal Canin Veterinary Diet,Royal Canin,4.6,56.0,chunks in gravy
+430,19.99,9.75,purina pro plan natural adult grain-free classic chicken & carrots entree ,Purina Pro Plan,Purina,4.8,62.0,pate
+431,13.20,16.5,pedigree choice cuts in gravy with beef ,Pedigree,Pedigree,4.5,11.0,chunks in gravy
+432,23.59,9.75,natural balance vegetarian formula ,Natural Balance,Natural Balance,4.5,101.0,pate
+433,28.33,9.75,natural balance l.i.d. limited ingredient diets buffalo & sweet potatoes formula grain-free ,Natural Balance,Natural Balance,4.6,61.0,pate
+434,19.99,9.75,purina pro plan savor adult grain-free classic turkey & sweet potato entree ,Purina Pro Plan,Purina,4.6,50.0,pate
+435,32.99,9.975000000000001,purina pro plan veterinary diets om overweight management formula ,Purina Pro Plan Veterinary Diets,Purina,4.9,53.0,minced
+436,14.64,4.0,rachael ray nutrish natural hearty beef stew natural wet dog food,Rachael Ray Nutrish,Rachael Ray Nutrish,4.4,41.0,chunks in gravy
+437,32.99,9.225000000000001,hill's prescription diet r/d weight reduction original ,Hill's Prescription Diet,Hill's,4.8,64.0,pate
+438,21.24,9.524999999999999,whole earth farms grain-free hearty lamb stew ,Whole Earth Farms,Whole Earth Farms,4.5,81.0,stew
+439,30.02,5.3,nutro adult petite eats chef inspired chicken entree cuts in gravy dog food trays,Nutro,Nutro,4.8,49.0,stew
+440,9.47,3.5,natural balance beef formula dog food roll,Natural Balance,Natural Balance,4.5,152.0,pate
+441,23.59,9.75,natural balance ultra premium chicken formula ,Natural Balance,Natural Balance,4.7,75.0,pate
+442,13.99,2.625,blue buffalo divine delights filet mignon flavor hearty gravy dog food trays,Blue Buffalo,Blue Buffalo,5.0,7.0,chunks in gravy
+443,17.78,9.375,purina beyond chicken & sweet potato recipe in gravy grain-free ,Purina Beyond,Purina,4.5,30.0,chunks in gravy
+444,9.89,4.0,redbarn naturals chicken recipe dog food roll,Redbarn,Redbarn,4.5,170.0,pate
+445,23.59,9.75,natural balance l.i.d. limited ingredient diets wild boar & brown rice formula ,Natural Balance,Natural Balance,4.5,89.0,pate
+446,22.13,9.375,"hill's science diet adult healthy cuisine roasted chicken,carrots & spinach stew ",Hill's Science Diet,Hill's,5.0,21.0,stew
+447,21.49,9.4,nutro adult hearty stews meaty lamb & rice stew chunks in gravy ,Nutro,Nutro,4.7,31.0,chunks in gravy
+448,21.49,9.4,nutro senior hearty stews grandma's farm stew with lamb & rice chunks in gravy ,Nutro,Nutro,4.8,43.0,chunks in gravy
+449,31.44,9.899999999999999,"merrick grain-free 96% real beef,lamb + buffalo ",Merrick,Merrick,4.6,69.0,pate
+450,23.99,9.375,blue buffalo homestyle recipe healthy weight chicken dinner with garden vegetables & brown rice ,Blue Buffalo,Blue Buffalo,4.7,54.0,pate
+451,27.48,9.899999999999999,taste of the wild wetlands grain-free ,Taste of the Wild,Taste of the Wild,4.7,96.0,chunks in gravy
+452,10.99,9.899999999999999,pedigree choice cuts in gravy variety pack chicken & lamb ,Pedigree,Pedigree,4.4,13.0,chunks in gravy
+453,21.14,4.125,nature's recipe chicken & wild salmon recipe in broth wet dog food,Nature's Recipe,Nature's Recipe,4.6,34.0,bits in broth
+454,14.16,5.0,purina beneful prepared meals savory rice & lamb stew with peas & carrots wet dog food,Purina Beneful,Purina,4.8,23.0,stew
+455,12.48,9.899999999999999,"nature's recipe easy-to-digest lamb,rice & barley recipe cuts in gravy stew ",Nature's Recipe,Nature's Recipe,3.9,21.0,stew
+456,31.44,9.899999999999999,merrick classic grain-free smothered comfort recipe ,Merrick,Merrick,4.4,92.0,chunks in gravy
+457,17.24,9.75,"iams proactive health adult beef,rice,carrots & green beans flavor chunks in gravy ",Iams,Iams,4.8,37.0,chunks in gravy
+459,33.99,9.375,wellness beef stew with carrots & potatoes grain-free ,Wellness,Wellness,4.8,86.0,stew
+460,18.85,9.600000000000001,hill's science diet adult savory stew with chicken & vegetables ,Hill's Science Diet,Hill's,4.7,30.0,stew
+461,38.46,10.5,weruva paw lickin' chicken in gravy grain-free ,Weruva,Weruva,4.8,121.0,chunks in gravy
+462,36.99,9.75,hill's prescription diet metabolic weight management chicken flavor ,Hill's Prescription Diet,Hill's,4.7,69.0,pate
+463,35.49,9.75,hill's prescription diet u/d urinary care chicken flavor ,Hill's Prescription Diet,Hill's,4.7,64.0,pate
+464,18.85,9.75,hill's science diet adult 7+ turkey & barley entree ,Hill's Science Diet,Hill's,4.5,45.0,minced
+465,24.98,7.875,cesar canine cuisine and home delights club variety pack dog food trays,Cesar,Cesar,4.9,17.0,"bits in broth, pate"
+466,7.98,0.8125,purina one smartblend true instinct classic ground grain-free variety pack ,Purina ONE,Purina,4.6,16.0,chunks in gravy
+467,19.94,0.625,purina beneful prepared meals variety pack wet dog food,Purina Beneful,Purina,4.6,19.0,stew
+468,27.48,9.899999999999999,taste of the wild southwest canyon grain-free ,Taste of the Wild,Taste of the Wild,4.4,105.0,chunks in gravy
+469,27.48,9.899999999999999,taste of the wild sierra mountain grain-free ,Taste of the Wild,Taste of the Wild,4.7,108.0,chunks in gravy
+470,8.38,2.625,cesar savory delights multipack dog food trays,Cesar,Cesar,4.9,44.0,pate
+471,31.44,9.899999999999999,merrick classic grain-free wingaling recipe ,Merrick,Merrick,4.7,101.0,chunks in gravy
+472,33.99,9.375,wellness chicken stew with peas & carrots grain-free ,Wellness,Wellness,4.7,108.0,stew
+473,29.11,9.375,blue buffalo basics limited ingredient grain-free salmon & potato recipe ,Blue Buffalo,Blue Buffalo,4.7,67.0,pate
+474,73.09,20.4,royal canin veterinary diet selected protein adult pd ,Royal Canin Veterinary Diet,Royal Canin,4.8,60.0,pate
+475,31.44,9.899999999999999,merrick grain-free 96% real chicken ,Merrick,Merrick,4.8,73.0,pate
+476,37.49,9.75,hill's prescription diet l/d liver care original ,Hill's Prescription Diet,Hill's,4.6,80.0,pate
+477,25.99,9.375,blue buffalo wilderness turkey & chicken grill grain-free senior ,Blue Buffalo,Blue Buffalo,4.8,72.0,pate
+478,29.99,9.375,blue buffalo wilderness wolf creek stew hearty beef stew grain-free adult ,Blue Buffalo,Blue Buffalo,4.7,47.0,stew
+479,21.24,9.524999999999999,whole earth farms grain-free chicken & turkey recipe ,Whole Earth Farms,Whole Earth Farms,4.5,166.0,pate
+480,23.97,9.375,blue buffalo homestyle recipe puppy chicken dinner with garden vegetables ,Blue Buffalo,Blue Buffalo,4.8,71.0,pate
+481,12.48,9.899999999999999,"nature's recipe easy-to-digest lamb,rice & barley recipe homestyle ground ",Nature's Recipe,Nature's Recipe,3.9,50.0,minced
+482,33.99,9.375,"wellness core grain-free turkey,chicken liver & turkey liver formula ",Wellness,Wellness,4.8,129.0,pate
+483,28.99,9.375,blue buffalo blue's country chicken stew grain free ,Blue Buffalo,Blue Buffalo,4.7,84.0,stew
+484,57.99,8.25,hill's prescription diet a/d urgent care with chicken canned dog & cat food,Hill's Prescription Diet,Hill's,4.9,165.0,pate
+485,31.44,9.899999999999999,merrick classic grain-free thanksgiving day dinner recipe ,Merrick,Merrick,4.7,121.0,chunks in gravy
+486,56.09,20.4,royal canin veterinary diet gastrointestinal high energy he ,Royal Canin Veterinary Diet,Royal Canin,5.0,67.0,pate
+487,13.99,2.625,blue buffalo divine delights rotisserie chicken flavor hearty gravy dog food trays,Blue Buffalo,Blue Buffalo,4.7,14.0,chunks in gravy
+488,25.99,9.375,blue buffalo wilderness salmon & chicken grill grain-free ,Blue Buffalo,Blue Buffalo,4.6,100.0,pate
+489,31.44,9.899999999999999,merrick classic grain-free cowboy cookout recipe ,Merrick,Merrick,4.6,141.0,chunks in gravy
+490,22.69,9.75,"purina beyond chicken,carrot & pea recipe ground entrée grain-free ",Purina Beyond,Purina,4.7,48.0,pate
+491,8.38,2.625,cesar home delights turkey & pot roast multipack dog food trays,Cesar,Cesar,4.8,34.0,chunks in gravy
+492,18.85,9.75,hill's science diet adult chicken & barley entree ,Hill's Science Diet,Hill's,4.6,43.0,minced
+493,14.56,5.0,"purina beneful prepared meals beef stew with peas,carrots,rice & barley wet dog food",Purina Beneful,Purina,4.4,20.0,stew
+494,18.91,9.75,purina pro plan focus puppy classic chicken & rice entree ,Purina Pro Plan,Purina,4.7,57.0,pate
+495,23.40,9.375,blue buffalo wilderness turkey & chicken grill grain-free puppy ,Blue Buffalo,Blue Buffalo,4.8,70.0,pate
+496,31.44,9.899999999999999,merrick classic grain-free turducken recipe ,Merrick,Merrick,4.8,94.0,chunks in gravy
+497,22.86,4.125,nature's recipe grain-free chicken & duck recipe in broth wet dog food,Nature's Recipe,Nature's Recipe,4.8,56.0,bits in broth
+498,45.48,10.5,weruva no ruff days variety pack grain-free ,Weruva,Weruva,4.6,107.0,chunks in gravy
+499,18.96,9.75,purina pro plan select adult classic sensitive skin & stomach salmon & rice entree ,Purina Pro Plan,Purina,4.3,118.0,pate
+500,18.85,9.600000000000001,hill's science diet adult 7+ savory stew with beef & vegetables ,Hill's Science Diet,Hill's,4.8,52.0,stew
+501,22.13,9.375,hill's science diet adult perfect weight hearty vegetable & chicken stew ,Hill's Science Diet,Hill's,5.0,39.0,stew
+502,33.99,9.899999999999999,wellness 95% chicken grain-free ,Wellness,Wellness,4.7,109.0,pate
+503,24.99,9.375,blue buffalo freedom adult chicken recipe grain-free ,Blue Buffalo,Blue Buffalo,4.8,97.0,pate
+504,13.95,9.899999999999999,"nature's recipe easy-to-digest chicken,rice & barley recipe cuts in gravy stew ",Nature's Recipe,Nature's Recipe,4.2,59.0,stew
+505,18.96,9.75,purina pro plan savor adult classic beef & rice entree ,Purina Pro Plan,Purina,4.8,67.0,pate
+506,31.44,9.899999999999999,merrick classic grain-free grammy's pot pie recipe ,Merrick,Merrick,4.6,125.0,chunks in gravy
+507,18.96,9.75,purina pro plan savor adult beef & vegetables entree slices in gravy ,Purina Pro Plan,Purina,4.4,60.0,chunks in gravy
+508,14.94,0.1875,purina beneful incredibites variety pack ,Purina Beneful,Purina,4.8,33.0,shredded
+509,19.71,9.75,purina beyond salmon & sweet potato recipe ground entrée grain-free ,Purina Beyond,Purina,4.7,74.0,pate
+510,8.94,3.9375,"pedigree choice cuts variety pack with beef,chicken & filet mignon wet dog food",Pedigree,Pedigree,4.8,17.0,chunks in gravy
+511,18.96,9.75,purina pro plan focus adult weight management turkey & rice entree morsels in gravy ,Purina Pro Plan,Purina,4.6,68.0,chunks in gravy
+512,18.85,9.75,hill's science diet adult beef & chicken entree ,Hill's Science Diet,Hill's,4.6,53.0,minced
+513,27.48,9.899999999999999,taste of the wild pacific stream grain-free ,Taste of the Wild,Taste of the Wild,4.6,175.0,chunks in gravy
+514,31.44,9.524999999999999,merrick chunky grain-free big texas steak tips dinner ,Merrick,Merrick,4.5,119.0,chunks in gravy
+515,18.54,9.75,"purina beyond beef,potato & green bean recipe ground entrée grain-free ",Purina Beyond,Purina,4.7,63.0,pate
+516,8.98,9.9,pedigree chopped ground dinner variety pack with filet mignon & beef ,Pedigree,Pedigree,4.6,14.0,minced
+517,29.99,9.375,blue buffalo wilderness rocky mountain recipe red meat dinner adult grain-free ,Blue Buffalo,Blue Buffalo,4.7,130.0,pate
+518,9.89,4.0,redbarn naturals beef recipe dog food roll,Redbarn,Redbarn,4.7,244.0,pate
+519,25.99,9.375,blue buffalo basics limited ingredient grain-free turkey & potato recipe ,Blue Buffalo,Blue Buffalo,4.7,70.0,pate
+520,7.98,9.9,"alpo homestyle beef lover's pack ,13.2-oz,case of 12",ALPO,ALPO,4.8,40.0,chunks in gravy
+521,8.38,2.625,cesar breakfast & dinner mealtime multipack dog food trays,Cesar,Cesar,4.9,46.0,pate
+522,8.38,2.625,cesar gourmet filets in sauce beef multipack dog food trays,Cesar,Cesar,4.8,51.0,chunks in gravy
+523,23.59,9.75,natural balance ultra premium beef formula ,Natural Balance,Natural Balance,4.6,151.0,pate
+524,23.99,9.375,blue buffalo homestyle recipe lamb dinner with garden vegetables ,Blue Buffalo,Blue Buffalo,4.8,101.0,pate
+525,40.99,8.25,"hill's prescription diet i/d digestive care low fat rice,vegetable & chicken stew ",Hill's Prescription Diet,Hill's,4.9,160.0,stew
+526,18.85,9.600000000000001,hill's science diet adult 7+ savory stew with chicken & vegetables ,Hill's Science Diet,Hill's,4.8,76.0,stew
+527,36.99,9.75,hill's prescription diet c/d multicare urinary care chicken flavor ,Hill's Prescription Diet,Hill's,4.7,115.0,pate
+528,13.95,9.899999999999999,"nature's recipe easy-to-digest chicken,rice & barley recipe homestyle ground ",Nature's Recipe,Nature's Recipe,4.6,73.0,minced
+529,11.43,4.875,purina beyond grain-free ground entree variety pack adult ,Purina Beyond,Purina,4.9,51.0,pate
+530,35.99,9.375,hill's prescription diet k/d kidney care beef & vegetable stew ,Hill's Prescription Diet,Hill's,4.8,155.0,stew
+531,10.68,16.5,"pedigree chunky ground dinner with beef,bacon & cheese flavor ",Pedigree,Pedigree,4.7,28.0,minced
+532,27.03,9.375,blue buffalo blue's hearty beef stew grain free ,Blue Buffalo,Blue Buffalo,4.6,100.0,stew
+533,23.59,9.75,natural balance l.i.d. limited ingredient diets sweet potato & fish formula grain-free ,Natural Balance,Natural Balance,4.3,178.0,pate
+534,18.85,9.75,hill's science diet adult 7+ beef & barley entree ,Hill's Science Diet,Hill's,4.7,79.0,minced
+535,23.99,9.375,blue buffalo homestyle recipe turkey meatloaf dinner with garden vegetables ,Blue Buffalo,Blue Buffalo,4.7,94.0,pate
+536,22.13,9.600000000000001,hill's science diet adult sensitive stomach & skin grain-free salmon & vegetable entree ,Hill's Science Diet,Hill's,4.7,79.0,minced
+537,60.34,20.1,royal canin veterinary diet canine glycobalance ,Royal Canin Veterinary Diet,Royal Canin,4.9,136.0,pate
+538,38.99,9.375,hill's prescription diet c/d multicare urinary care chicken & vegetable stew ,Hill's Prescription Diet,Hill's,4.9,137.0,stew
+539,8.38,2.625,cesar home delights beef stew & chicken & vegetable multipack dog food trays,Cesar,Cesar,4.9,47.0,chunks in gravy
+540,23.59,9.75,natural balance l.i.d. limited ingredient diets lamb & brown rice formula ,Natural Balance,Natural Balance,4.5,163.0,pate
+541,8.99,9.9,pedigree chopped ground dinner variety pack with beef & chicken ,Pedigree,Pedigree,4.6,25.0,minced
+542,27.48,9.899999999999999,taste of the wild high prairie grain-free ,Taste of the Wild,Taste of the Wild,4.7,237.0,chunks in gravy
+543,7.49,2.25,"purina beneful medleys tuscan,romana & mediterranean style variety pack ",Purina Beneful,Purina,4.7,92.0,stew
+544,8.86,9.9,"alpo gravy cravers variety pack ,13.2-oz,case of 12",ALPO,ALPO,4.6,41.0,chunks in gravy
+545,29.99,9.375,blue buffalo wilderness wolf creek stew chunky chicken stew grain-free adult ,Blue Buffalo,Blue Buffalo,4.5,170.0,stew
+546,34.49,9.75,hill's prescription diet k/d kidney care with chicken ,Hill's Prescription Diet,Hill's,4.6,184.0,pate
+547,18.85,9.75,hill's science diet adult 7+ chicken & barley entree ,Hill's Science Diet,Hill's,4.7,89.0,minced
+548,32.99,10.05,purina pro plan veterinary diets en gastroenteric formula ,Purina Pro Plan Veterinary Diets,Purina,4.9,147.0,minced
+549,25.99,9.375,blue buffalo wilderness turkey & chicken grill grain-free ,Blue Buffalo,Blue Buffalo,4.6,154.0,pate
+550,84.09,20.4,royal canin veterinary diet selected protein adult pr ,Royal Canin Veterinary Diet,Royal Canin,4.9,126.0,pate
+551,18.96,9.75,purina pro plan savor adult classic chicken & rice entree ,Purina Pro Plan,Purina,4.6,98.0,pate
+552,17.88,2.6,merrick lil' plates mini medley grain-free variety pack dog food trays,Merrick,Merrick,4.6,56.0,stew
+553,23.99,9.375,blue buffalo homestyle recipe beef dinner with garden vegetables & sweet potatoes ,Blue Buffalo,Blue Buffalo,4.6,122.0,pate
+554,21.60,9.375,blue buffalo homestyle recipe senior chicken dinner with garden vegetables ,Blue Buffalo,Blue Buffalo,4.8,118.0,pate
+555,36.99,9.375,hill's prescription diet w/d digestive/weight/glucose management vegetable & chicken stew ,Hill's Prescription Diet,Hill's,4.9,174.0,stew
+556,87.89,20.7,royal canin veterinary diet hydrolyzed protein adult hp ,Royal Canin Veterinary Diet,Royal Canin,4.8,173.0,pate
+557,21.88,4.125,nature's recipe grain-free chicken recipe in broth wet dog food,Nature's Recipe,Nature's Recipe,4.6,97.0,bits in broth
+558,67.99,4.5,royal canin veterinary diet urinary so moderate calorie morsels in gravy ,Royal Canin Veterinary Diet,Royal Canin,4.8,205.0,chunks in gravy
+559,23.59,9.899999999999999,natural balance l.i.d. limited ingredient diets duck & potato formula grain-free ,Natural Balance,Natural Balance,4.5,280.0,pate
+560,7.98,9.75,"alpo chop house rotisserie chicken & t-bone steak flavor in gravy ,13.2-oz,case of 12",ALPO,ALPO,4.2,43.0,chunks in gravy
+561,16.80,5.25,cesar classics pate poultry multipack dog food trays,Cesar,Cesar,4.8,81.0,pate
+562,44.99,9.75,hill's prescription diet z/d original skin/food sensitivities ,Hill's Prescription Diet,Hill's,4.7,185.0,pate
+563,23.59,9.75,natural balance l.i.d. limited ingredient diets chicken & sweet potato formula grain-free ,Natural Balance,Natural Balance,4.6,262.0,pate
+564,7.99,9.9,"alpo chop house filet mignon & bacon and roasted chicken & top sirloin flavors savory juices ,13.2-oz,case of 12",ALPO,ALPO,4.5,83.0,chunks in gravy
+565,25.99,9.375,blue buffalo wilderness beef & chicken grill grain-free ,Blue Buffalo,Blue Buffalo,4.7,188.0,pate
+566,64.59,20.4,royal canin veterinary diet urinary so ,Royal Canin Veterinary Diet,Royal Canin,4.8,319.0,pate
+567,23.99,9.375,blue buffalo homestyle recipe chicken dinner with garden vegetables & brown rice ,Blue Buffalo,Blue Buffalo,4.7,185.0,pate
+568,23.59,9.75,natural balance l.i.d. limited ingredient diets sweet potato & venison formula grain-free ,Natural Balance,Natural Balance,4.5,473.0,pate
+569,32.49,9.75,hill's prescription diet w/d digestive/weight/glucose management with chicken ,Hill's Prescription Diet,Hill's,4.7,283.0,pate
+570,10.98,3.0,rachael ray nutrish natural variety pack wet dog food,Rachael Ray Nutrish,Rachael Ray Nutrish,4.4,184.0,chunks in gravy
+571,37.49,9.375,hill's prescription diet i/d digestive care chicken & vegetable stew ,Hill's Prescription Diet,Hill's,4.9,283.0,stew
+572,16.80,5.25,cesar club variety cube dog food trays,Cesar,Cesar,4.7,129.0,pate
+573,33.49,9.75,hill's prescription diet i/d digestive care original low fat ,Hill's Prescription Diet,Hill's,4.8,331.0,pate
+574,33.49,9.75,hill's prescription diet i/d digestive care with turkey ,Hill's Prescription Diet,Hill's,4.8,417.0,pate
+575,65.49,20.4,"royal canin veterinary diet gastrointestinal low fat lf ,13.6-oz can,case of 24",Royal Canin Veterinary Diet,Royal Canin,4.9,630.0,pate
+576,37.08,9.899999999999999,nature's logic canine beef feast grain-free ,Nature's Logic,Nature's Logic,4.9,21.0,minced
+577,21.48,4.125,halo holistic beef recipe adult ,Halo,Halo,4.8,39.0,stew
+578,16.80,5.25,cesar classics pate oven roasted chicken flavor dog food trays,Cesar,Cesar,5.0,11.0,pate
+579,13.94,4.5,"purina beneful incredibites with beef,tomatoes,carrots & wild rice ",Purina Beneful,Purina,5.0,1.0,chunks in gravy
+580,17.94,4.76,instinct by nature's variety grain-free stews lamb recipe wet ,Instinct,Instinct,5.0,3.0,stew
+581,38.64,5.25,nutro ultra antioxidant boost chicken pate dog food trays,Nutro Ultra,Nutro,4.5,4.0,pate
+582,39.48,9.75,"petkind tripett green beef tripe,duck & salmon grain-free ",PetKind,PetKind,4.7,26.0,pate
+583,33.49,9.524999999999999,newman's own organics turkey & brown rice formula ,Newman's Own Organics,Newman's Own Organics,4.8,16.0,pate
+584,16.80,5.25,cesar home delights beef stroganoff dog food trays,Cesar,Cesar,4.8,5.0,chunks in gravy
+585,7.58,9.9,kibbles 'n bits chef’s choice bistro & homestyle variety pack ,Kibbles 'n Bits,Kibbles 'n Bits,,,chunks in gravy
+586,58.99,9.0,"wellness core chunky centers with salmon,tuna & spinach grain-free wet dog food",Wellness,Wellness,4.8,6.0,"pate, chunks in gravy"
+587,34.68,9.75,party animal california chicken recipe ,Party Animal,Party Animal,5.0,1.0,pate
+588,54.84,9.899999999999999,nature's logic rabbit feast grain-free ,Nature's Logic,Nature's Logic,4.8,11.0,minced
+589,34.68,9.899999999999999,"precise holistic complete turkey & duck ""wild at heart flight line"" grain-free ",Precise Holistic Complete,Precise Holistic Complete,4.4,8.0,pate
+590,34.68,9.375,nutro wild frontier large prey recipe beef stew with liver high-protein grain-free ,Nutro,Nutro,,,stew
+591,31.08,9.75,dave's pet food stewlicious grain-free chicken pot pie stew ,Dave's Pet Food,Dave's Pet Food,,,stew
+592,58.99,9.0,"wellness core chunky centers with tuna,chicken & kale grain-free wet dog food",Wellness,Wellness,5.0,3.0,"pate, chunks in gravy"
+593,40.92,9.0,tiki dog gourmet carnivore beef liver & chicken grain-free ,Tiki Dog,Tiki Dog,4.0,1.0,sliced
+594,31.99,0.34375,tender & true antibiotic-free natural turkey & brown rice recipe ,Tender & True,Tender & True,,,pate
+595,34.99,0.3125,tender & true organic turkey & liver recipe grain- free ,Tender & True,Tender & True,5.0,2.0,pate
+596,37.08,9.149999999999999,kasiks cage-free chicken formula grain-free ,KASIKS,KASIKS,,,pate
+597,59.88,9.375,caru real turkey with lamb stew grain-free wet dog food,Caru,Caru,4.0,3.0,stew
+598,23.88,9.5625,variety pet foods salmon & chicken entree ,Variety Pet Foods,Variety Pet Foods,3.5,2.0,stew
+599,23.99,8.25,triumph chicken 'n rice formula for puppies ,Triumph,Triumph,,,pate
+600,45.24,10.5,tiki dog hapuna luau ahi tuna on brown rice with crab ,Tiki Dog,Tiki Dog,4.2,4.0,shredded
+601,40.80,5.25,nutro wild frontier gamebird recipe turkey loaf with chicken & turkey pieces adult high-protein grain-free dog food trays,Nutro,Nutro,,,pate
+602,16.00,3.29,triumph meals of victory turkey recipe in savory juices dog food trays,Triumph,Triumph,,,bits in broth
+603,29.26,9.75,dave's pet food grain-free beef & vegetable cuts in gravy ,Dave's Pet Food,Dave's Pet Food,,,chunks in gravy
+604,59.88,9.75,k9 natural grass-fed 100% lamb green tripe grain-free ,K9 Natural,K9 Natural,4.0,3.0,pate
+605,44.28,9.899999999999999,go! daily defence turkey stew ,Go!,Go!,5.0,6.0,stew
+606,44.28,9.899999999999999,go! daily defence salmon pate recipe ,Go!,Go!,4.8,5.0,pate
+607,45.24,10.5,tiki dog tonga luau sardine cutlets ,Tiki Dog,Tiki Dog,4.8,5.0,shredded
+608,28.99,9.75,avoderm natural chicken & rice formula puppy ,AvoDerm,AvoDerm,5.0,1.0,pate
+609,30.00,9.9,"solid gold love at first bark beef,potatoes & apples puppy recipe grain-free ",Solid Gold,Solid Gold,,,pate
+610,21.43,4.8,halo wild salmon & venison recipe healthy weight small breed ,Halo,Halo,,,
+611,21.36,9.899999999999999,variety pet foods homestyle stew grandma's stew ,Variety Pet Foods,Variety Pet Foods,4.0,2.0,stew
+612,43.21,9.75,"bravo! canine cafe 95% beef,turkey & liver dinner grain-free ",Bravo!,Bravo!,5.0,2.0,shredded
+613,28.99,11.73,"purina beyond simple origins free-range chicken,pacific cod & carrot grain-free recipe ground entree dog food",Purina Beyond,Purina,,,minced
+614,29.26,9.75,dave's pet food grain-free chicken & vegetable cuts in gravy ,Dave's Pet Food,Dave's Pet Food,4.5,2.0,chunks in gravy
+615,29.99,9.0,tiki dog gourmet carnivore beef & liver grain-free ,Tiki Dog,Tiki Dog,3.3,6.0,sliced
+616,28.56,9.899999999999999,petguard turkey & barley dinner ,PetGuard,PetGuard,5.0,3.0,pate
+617,30.99,9.899999999999999,petguard beef & vegetable & wheat germ dinner ,PetGuard,PetGuard,5.0,1.0,pate
+618,31.20,9.375,nutro wild frontier farm bird recipe chicken stew with liver high-protein grain-free ,Nutro,Nutro,,,stew
+619,29.26,9.75,"dave's pet food grain-free chicken,salmon & sweet potato entree ",Dave's Pet Food,Dave's Pet Food,,,pate
+620,37.08,9.149999999999999,firstmate 50/50 salmon & tuna formula grain-free ,FirstMate,FirstMate,5.0,1.0,pate
+621,31.08,9.899999999999999,dave's pet food stewlicious meaty beefy stew ,Dave's Pet Food,Dave's Pet Food,4.8,9.0,stew
+622,28.46,9.75,redbarn naturals chicken pate immune support grain-free ,Redbarn,Redbarn,,,pate
+623,40.92,9.0,tiki dog gourmet carnivore chicken & liver grain-free ,Tiki Dog,Tiki Dog,4.6,5.0,sliced
+624,33.48,9.899999999999999,precise naturals puppy formula ,Precise Naturals,Precise Naturals,5.0,6.0,pate
+625,10.80,3.17,purina bella with lamb in savory juices small breed dog food trays,Purina Bella,Purina,,,pate
+626,32.62,9.75,canine caviar 97% unagi grain-free  supplement,Canine Caviar,Canine Caviar,5.0,1.0,pate
+627,23.88,9.5625,variety pet foods sunday brunch ,Variety Pet Foods,Variety Pet Foods,5.0,2.0,stew
+628,54.72,9.899999999999999,halo vigor chicken & beef recipe ,Halo,Halo,5.0,1.0,pate
+629,39.48,9.75,petkind that's it! duck grain-free ,PetKind,PetKind,3.7,9.0,pate
+630,29.88,9.75,redbarn naturals turkey stew grain-free ,Redbarn,Redbarn,4.9,7.0,stew
+631,30.50,9.524999999999999,castor & pollux organix organic chicken & potato recipe adult ,Castor & Pollux,Castor & Pollux,5.0,2.0,pate
+632,29.99,9.899999999999999,petguard lamb & brown rice dinner ,PetGuard,PetGuard,4.7,3.0,pate
+633,32.99,9.375,"blue buffalo nantucket feast with cod,shrimp & cranberries ",Blue Buffalo,Blue Buffalo,,,chunks in gravy
+634,31.20,9.375,nutro wild frontier large bird recipe turkey stew with liver high-protein grain-free ,Nutro,Nutro,,,stew
+635,12.99,3.29,triumph meals of victory chicken recipe in savory juices dog food trays,Triumph,Triumph,5.0,1.0,bits in broth
+636,26.99,9.75,dave's pet food restricted bland diet lamb & rice formula ,Dave's Pet Food,Dave's Pet Food,,,pate
+637,30.02,9.75,nutrisca grain-free duck & chickpea stew recipe ,Nutrisca,Nutrisca,,,pate
+638,16.99,2.625,under the sun grain-free with turkey & green beans in gravy dog food trays,Under the Sun,Under the Sun,,,chunks in gravy
+639,38.28,9.75,"wild calling triple delight 96% lamb,salmon & chicken grain-free adult ",Wild Calling,Wild Calling,4.3,3.0,pate
+640,45.24,10.5,tiki dog hilo luau ahi tuna on brown rice with tiger prawns ,Tiki Dog,Tiki Dog,5.0,5.0,shredded
+641,30.99,9.899999999999999,petguard turkey & sweet potato stew in gravy grain-free ,PetGuard,PetGuard,4.8,6.0,pate
+642,24.96,7.0,whole earth farms small breed recipe turkey dinner grain-free ,Whole Earth Farms,Whole Earth Farms,4.0,2.0,stew
+643,15.99,9.9,pedigree chunky ground dinner with chicken ,Pedigree,Pedigree,,,minced
+644,17.40,9.899999999999999,pedigree choice cuts in gravy with beef & barley ,Pedigree,Pedigree,,,chunks in gravy
+645,26.13,9.899999999999999,"evolve nature's menu hearty stew with beef,carrots & potatoes ",Evolve,Evolve,4.5,2.0,chunks in gravy
+646,22.02,9.899999999999999,triumph grain-free beef & vegetable stew ,Triumph,Triumph,4.6,9.0,pate
+647,22.99,9.899999999999999,"triumph lamb,rice 'n vegetable formula ",Triumph,Triumph,5.0,4.0,pate
+648,31.20,9.375,nutro wild frontier grass-fed prey recipe lamb stew with liver high-protein grain-free ,Nutro,Nutro,,,stew
+649,39.89,9.75,hound & gatos lamb formula grain-free ,Hound & Gatos,Hound & Gatos,4.0,2.0,pate
+650,50.70,9.75,canine caviar 97% brushtail grain-free  supplement,Canine Caviar,Canine Caviar,5.0,3.0,pate
+651,18.05,2.625,canidae grain-free pure petite escalloped style dinner with salmon & shrimp small breed dog food trays,CANIDAE,CANIDAE,3.0,1.0,pate
+652,28.99,9.75,purina beyond simple origins grain-free free-range chicken & pea recipe ground entree dog food,Purina Beyond,Purina,,,minced
+653,34.68,9.75,party animal blazin' beef recipe grain-free ,Party Animal,Party Animal,4.3,10.0,pate
+654,25.08,2.625,castor & pollux organix tiny feasts grain-free organic turkey recipe dog food trays,Castor & Pollux,Castor & Pollux,,,pate
+655,48.87,9.75,"bravo! canine cafe 95% rabbit,pork & liver dinner grain-free ",Bravo!,Bravo!,5.0,1.0,shredded
+656,33.48,9.75,redbarn naturals duck & turkey pate high protein grain-free ,Redbarn,Redbarn,5.0,1.0,pate
+657,26.13,9.899999999999999,evolve nature's menu mountain range medley with salmon & venison in sauce ,Evolve,Evolve,4.3,3.0,chunks in gravy
+658,44.28,9.899999999999999,"go! fit + free grain-free chicken,turkey & trout stew ",Go!,Go!,4.7,7.0,stew
+659,18.77,9.899999999999999,hi-tor veterinary select reduso diet ,HI-TOR,HI-TOR,4.0,2.0,pate
+660,28.99,9.75,"purina beyond simple origins grain-free free-range chicken,wild alaskan salmon & spinach recipe ground entree dog food",Purina Beyond,Purina,,,minced
+661,21.43,4.8,halo salmon recipe grain-free puppy ,Halo,Halo,,,pate
+662,21.43,4.8,halo chicken recipe grain-free puppy ,Halo,Halo,,,pate
+663,59.88,9.75,k9 natural grass-fed lamb feast grain-free ,K9 Natural,K9 Natural,5.0,3.0,pate
+664,31.08,9.75,dave's pet food stewlicious grain-free chunky chicken stew ,Dave's Pet Food,Dave's Pet Food,4.7,3.0,stew
+665,33.48,9.75,redbarn naturals beef pate puppy grain-free ,Redbarn,Redbarn,4.0,1.0,pate
+666,40.68,9.75,petkind that's it! bison tripe grain-free ,PetKind,PetKind,4.3,17.0,pate
+667,28.68,9.899999999999999,precise holistic complete pork with vegetables formula in gravy grain-free ,Precise Holistic Complete,Precise Holistic Complete,4.0,8.0,pate
+668,9.75,3.5,pedigree chopped meaty ground dinner with slow cooked beef wet dog food,Pedigree,Pedigree,,,minced
+669,16.99,2.625,under the sun grain-free with lamb & carrots in gravy dog food trays,Under the Sun,Under the Sun,,,chunks in gravy
+670,28.68,9.899999999999999,health extension grain-free tasty turkey stew ,Health Extension,Health Extension,5.0,1.0,stew
+671,40.92,9.0,"tiki dog gourmet carnivore beef,liver & lamb grain-free ",Tiki Dog,Tiki Dog,4.8,4.0,sliced
+672,26.99,9.75,dogswell vitality duck & sweet potato stew recipe grain-free ,Dogswell,Dogswell,4.3,7.0,stew
+673,10.80,3.17,purina bella grilled top sirloin flavor in savory juices small breed dog food trays,Purina Bella,Purina,,,pate
+674,13.99,9.9,pedigree chopped ground dinner with chopped liver & beef ,Pedigree,Pedigree,,,minced
+675,16.99,2.625,under the sun grain-free with chicken and peas dog food trays,Under the Sun,Under the Sun,5.0,1.0,pate
+676,59.88,9.375,caru real pork stew grain-free wet dog food,Caru,Caru,4.5,6.0,stew
+677,18.32,4.0,earthborn holistic lily's gourmet buffet grain-free natural moist dog food,Earthborn Holistic,Earthborn Holistic,4.7,26.0,minced
+678,30.63,9.0,evanger's signature series slow cooked chicken stew grain-free ,Evanger's,Evanger's,3.7,15.0,stew
+679,30.00,9.9,"solid gold love at first bark chicken,potatoes & apples puppy recipe grain-free ",Solid Gold,Solid Gold,5.0,1.0,pate
+680,59.88,9.75,k9 natural grass-fed beef feast grain-free ,K9 Natural,K9 Natural,5.0,1.0,pate
+681,56.28,9.375,lotus venison stew grain-free ,Lotus,Lotus,4.2,4.0,stew
+682,34.48,8.7,royal canin urban life puppy ,Royal Canin,Royal Canin,,,pate
+683,26.13,9.899999999999999,"evolve nature's menu holiday harvest with turkey,duck & cranberries in gravy ",Evolve,Evolve,4.4,12.0,chunks in gravy
+684,30.63,9.0,evanger's signature series slow cooked turkey stew grain-free ,Evanger's,Evanger's,3.6,10.0,stew
+685,27.99,9.75,under the sun grain-free salmon formula ,Under the Sun,Under the Sun,4.6,5.0,pate
+686,44.28,9.899999999999999,go! daily defence chicken stew ,Go!,Go!,5.0,8.0,stew
+687,25.08,2.625,castor & pollux organix tiny feasts grain-free organic turkey & potato stew dog food trays,Castor & Pollux,Castor & Pollux,,,stew
+688,24.96,7.0,whole earth farms small breed recipe lamb dinner grain-free ,Whole Earth Farms,Whole Earth Farms,4.0,4.0,stew
+689,35.99,9.0,newman's own organics grain-free premium beef liver & vegetable stew ,Newman's Own Organics,Newman's Own Organics,4.0,4.0,stew
+690,33.48,9.75,redbarn naturals ocean fish pate healthy weight grain-free ,Redbarn,Redbarn,4.3,3.0,pate
+691,51.48,9.375,lotus wholesome turkey stew grain-free ,Lotus,Lotus,4.1,9.0,stew
+692,40.92,9.0,tiki dog gourmet carnivore chicken with duck grain-free ,Tiki Dog,Tiki Dog,4.0,4.0,sliced
+693,29.88,9.75,redbarn naturals lamb stew grain-free ,Redbarn,Redbarn,4.7,3.0,stew
+694,33.48,9.75,redbarn naturals lamb pate skin & coat grain-free ,Redbarn,Redbarn,5.0,5.0,pate
+695,51.48,9.375,lotus wholesome chicken & asparagus stew grain-free ,Lotus,Lotus,3.6,14.0,stew
+696,35.99,9.75,petkind that's it! wild salmon grain-free ,PetKind,PetKind,4.5,11.0,pate
+697,35.55,9.0,evanger's signature series slow cooked lamb stew grain-free ,Evanger's,Evanger's,4.0,11.0,stew
+698,25.08,2.625,"castor & pollux organix tiny feasts organic chicken,quinoa & carrot stew dog food trays",Castor & Pollux,Castor & Pollux,,,stew
+699,39.48,9.75,petkind that's it! beef tripe grain-free ,PetKind,PetKind,4.6,5.0,pate
+700,33.99,4.5,"wellness petite entrees shredded medley with roasted chicken,duck,peas & carrots grain-free wet dog food",Wellness,Wellness,4.5,8.0,shredded
+701,59.88,9.375,caru real turkey stew grain-free wet dog food,Caru,Caru,4.8,9.0,stew
+702,18.46,9.9,pedigree chopped ground dinner filet mignon & bacon flavor ,Pedigree,Pedigree,4.0,3.0,minced
+703,70.68,9.375,lotus just juicy beef shank stew grain-free ,Lotus,Lotus,4.9,9.0,stew
+704,24.19,9.899999999999999,hi-tor veterinary select neo diet ,HI-TOR,HI-TOR,3.9,7.0,pate
+705,45.24,10.5,tiki dog kohala luau ahi tuna & chicken on brown rice with tiger prawns ,Tiki Dog,Tiki Dog,5.0,2.0,shredded
+706,10.80,3.17,purina bella with chicken & liver in savory juices small breed dog food trays,Purina Bella,Purina,,,pate
+707,34.99,0.3125,tender & true organic chicken & liver recipe grain- free ,Tender & True,Tender & True,5.0,1.0,pate
+708,37.08,9.149999999999999,kasiks wild coho salmon formula grain-free ,KASIKS,KASIKS,4.5,4.0,pate
+709,59.88,9.375,lotus just juicy pork shoulder stew grain-free ,Lotus,Lotus,5.0,5.0,stew
+710,44.28,9.899999999999999,"go! fit + free grain-free chicken,turkey & duck stew ",Go!,Go!,4.4,8.0,stew
+711,32.99,9.38,"blue buffalo colorado roast with lamb,peas & apples grain-free ",Blue Buffalo,Blue Buffalo,,,chunks in gravy
+712,18.99,8.25,mighty dog chicken & smoked bacon combo ,Mighty Dog,Mighty Dog,5.0,2.0,minced
+713,48.96,10.5,weruva that's my jam! with chicken & lamb in gelee grain-free ,Weruva,Weruva,4.5,6.0,aspic / gelee
+714,27.49,9.75,avoderm natural original formula ,AvoDerm,AvoDerm,5.0,6.0,pate
+715,26.99,11.25,dave's pet food grain-free duck & sweet potato recipe ,Dave's Pet Food,Dave's Pet Food,4.1,9.0,pate
+716,19.15,11.73,purina one smartblend true instinct classic ground with real game bird dog food,Purina ONE,Purina,,,ground
+717,12.99,3.29,triumph meals of victory with venison in savory juices dog food trays,Triumph,Triumph,4.0,1.0,bits in broth
+718,24.96,7.0,whole earth farms small breed recipe duck dinner grain-free ,Whole Earth Farms,Whole Earth Farms,,,stew
+719,20.16,9.9,"pedigree homestyle meals prime rib,rice & vegetable flavor in gravy ",Pedigree,Pedigree,,,chunks in gravy
+720,30.89,9.375,avoderm natural grain-free revolving menu turkey recipe adult & puppy ,AvoDerm,AvoDerm,5.0,2.0,pate
+721,54.99,7.5,"wellness trufood tasty pairings with carrots,salmon & cod grain-free dog food trays",Wellness,Wellness,4.0,3.0,"minced, shredded"
+723,39.33,10.350000000000001,addiction grain-free king salmon & potatoes entree ,Addiction,Addiction,5.0,4.0,pate
+724,28.99,9.899999999999999,petguard vegetarian feast dinner ,PetGuard,PetGuard,4.2,11.0,pate
+725,19.70,5.0,"purina beneful chopped blends with chicken,carrots,peas & wild rice wet dog food,10-oz container,case of 8",Purina Beneful,Purina,,,chunks in gravy
+726,13.48,9.9,pedigree homestyle meals hearty chicken & vegetable flavor in gravy ,Pedigree,Pedigree,,,chunks in gravy
+727,34.68,9.600000000000001,party animal cocolicious organic chicken & turkey recipe grain-free ,Party Animal,Party Animal,5.0,24.0,pate
+728,23.98,9.375,dogswell livefree lamb stew grain-free adult ,Dogswell,Dogswell,5.0,1.0,stew
+729,10.80,3.17,purina bella with beef & smoked bacon in savory juices small breed dog food trays,Purina Bella,Purina,,,pate
+730,17.21,2.0999999999999996,tiki dog pipeline luau ahi tuna on brown rice ,Tiki Dog,Tiki Dog,4.0,12.0,shredded
+731,28.79,9.0,newman's own organics grain-free liver ,Newman's Own Organics,Newman's Own Organics,4.6,16.0,pate
+732,16.99,9.899999999999999,triumph grain-free turkey & sweet potato stew ,Triumph,Triumph,4.9,9.0,pate
+733,39.48,9.75,petkind that's it! lamb tripe grain-free ,PetKind,PetKind,4.5,4.0,pate
+734,53.12,20.4,royal canin veterinary diet development puppy ,Royal Canin Veterinary Diet,Royal Canin,4.9,7.0,pate
+735,15.99,4.875,i and love and you beef booyah & lambarama stew grain-free combo pack ,I and Love and You,I and Love and You,,,stew
+736,30.50,9.524999999999999,"castor & pollux organix grain-free organic turkey,carrot & potato recipe adult ",Castor & Pollux,Castor & Pollux,4.4,5.0,pate
+737,24.96,7.0,whole earth farms small breed recipe chicken dinner grain-free ,Whole Earth Farms,Whole Earth Farms,3.7,3.0,stew
+738,25.99,9.75,"dave's pet food grain-free chicken,sweet potato & quinoa recipe ",Dave's Pet Food,Dave's Pet Food,4.8,4.0,pate
+739,26.08,9.899999999999999,evolve turkey formula ,Evolve,Evolve,5.0,8.0,pate
+740,25.67,9.899999999999999,petguard chicken stew in gravy ,PetGuard,PetGuard,4.2,8.0,pate
+741,32.99,9.375,blue buffalo texas bbq with beef & yukon gold potatoes grain-free ,Blue Buffalo,Blue Buffalo,5.0,1.0,chunks in gravy
+742,31.08,9.75,dave's pet food stewlicious grain-free fisherman stew ,Dave's Pet Food,Dave's Pet Food,5.0,3.0,stew
+743,23.88,9.75,chicken soup for the soul beef & legumes stew grain-free ,Chicken Soup,Chicken Soup,4.8,4.0,pate
+744,58.99,9.0,"wellness core chunky centers with lamb,turkey & kale grain-free wet dog food",Wellness,Wellness,5.0,1.0,"pate, chunks in gravy"
+745,38.75,9.0,evanger's grain-free hand packed catch of the day ,Evanger's,Evanger's,4.1,16.0,chunks in gravy
+746,30.50,9.524999999999999,castor & pollux organix grain-free organic chicken & potato recipe adult ,Castor & Pollux,Castor & Pollux,4.7,3.0,pate
+747,23.88,9.75,chicken soup for the soul chicken & duck stew grain-free ,Chicken Soup,Chicken Soup,,,pate
+748,34.68,9.600000000000001,party animal cocolicious 95% wholesome duck grain-free ,Party Animal,Party Animal,4.7,10.0,pate
+749,59.88,9.375,caru real chicken stew grain-free wet dog food,Caru,Caru,4.4,11.0,stew
+750,20.28,9.899999999999999,evolve nature's menu chicken & pasta dinner in gravy ,Evolve,Evolve,,,chunks in gravy
+751,31.48,9.75,hound & gatos salmon & lamb liver formula grain-free ,Hound & Gatos,Hound & Gatos,4.5,11.0,pate
+752,28.68,9.899999999999999,health extension grain-free chunky chicken stew ,Health Extension,Health Extension,4.5,4.0,stew
+753,54.99,7.5,"wellness trufood tasty pairings with green beans,beef & lamb liver grain-free dog food trays",Wellness,Wellness,5.0,2.0,"minced, shredded"
+754,26.08,9.899999999999999,evolve chicken formula ,Evolve,Evolve,4.6,11.0,pate
+755,21.99,4.0,blue buffalo earth's essentials pacific feast salmon & lentil in gravy recipe dog food trays,Blue Buffalo,Blue Buffalo,3.7,3.0,chunks in gravy
+756,16.80,5.25,"cesar home delights scramble with turkey,spinach and cheese dog food trays",Cesar,Cesar,,,chunks in gravy
+757,34.65,9.75,canine caviar 97% salmon grain-free  supplement,Canine Caviar,Canine Caviar,2.6,14.0,pate
+758,34.68,9.600000000000001,party animal cocolicious tender pork & lamb recipe grain-free ,Party Animal,Party Animal,5.0,2.0,pate
+759,33.48,9.75,redbarn naturals turkey pate healthy digestion grain-free ,Redbarn,Redbarn,5.0,4.0,pate
+760,29.99,9.524999999999999,newman's own organics grain-free 95% turkey & liver dinner ,Newman's Own Organics,Newman's Own Organics,4.8,12.0,pate
+761,45.48,10.5,weruva marbella paella with mackerel & pumpkin in aspic grain-free ,Weruva,Weruva,4.6,10.0,aspic / gelee
+762,28.39,9.75,avoderm natural rice & chicken formula weight control ,AvoDerm,AvoDerm,4.5,6.0,pate
+763,35.99,9.75,"hound & gatos lamb,chicken & salmon formula grain-free ",Hound & Gatos,Hound & Gatos,4.9,8.0,pate
+764,27.47,9.75,under the sun grain-free duck formula ,Under the Sun,Under the Sun,4.9,9.0,pate
+765,17.44,5.0,purina pro plan savory meals grilled ocean whitefish entree with brown rice wet dog food,Purina Pro Plan,Purina,5.0,3.0,grilled
+766,12.98,3.9749999999999996,variety pet foods mixables beef lovers variety pack dog food pouches,Variety Pet Foods,Variety Pet Foods,4.8,6.0,chunks in gravy
+768,26.51,9.75,redbarn naturals chicken stew grain-free ,Redbarn,Redbarn,4.3,6.0,stew
+769,39.99,9.0,evanger's grain-free hand packed chunky chicken casserole dinner ,Evanger's,Evanger's,3.9,7.0,chunks in gravy
+770,15.99,9.9,pedigree choice cuts in gravy with lamb & vegetables ,Pedigree,Pedigree,,,chunks in gravy
+771,15.99,9.899999999999999,"triumph chicken,rice 'n vegetable formula ",Triumph,Triumph,4.6,11.0,pate
+772,36.41,9.0,evanger's signature series slow cooked beef stew grain-free ,Evanger's,Evanger's,3.9,10.0,stew
+773,33.99,9.75,"castor & pollux natural ultramix chicken,vegetable & brown rice stew adult ",Castor & Pollux,Castor & Pollux,5.0,7.0,stew
+774,18.05,2.625,canidae grain-free pure petite terrine style dinner with chicken & peas small breed dog food trays,CANIDAE,CANIDAE,3.0,2.0,pate
+775,30.89,9.375,avoderm natural grain-free revolving menu beef recipe adult & puppy ,AvoDerm,AvoDerm,3.8,4.0,pate
+776,35.99,9.75,castor & pollux natural ultramix beef & vegetable dinner grain-free adult ,Castor & Pollux,Castor & Pollux,3.3,3.0,stew
+777,26.54,9.75,hound & gatos pork formula grain-free ,Hound & Gatos,Hound & Gatos,3.8,11.0,pate
+778,33.99,9.524999999999999,petguard organic chicken & vegetable entree ,PetGuard,PetGuard,4.9,8.0,pate
+779,21.99,4.0,blue buffalo earth's essentials mountaintop medley lamb & barley in gravy recipe dog food trays,Blue Buffalo,Blue Buffalo,5.0,1.0,chunks in gravy
+780,62.16,10.32,ziwi peak tripe & lamb ,Ziwi,Ziwi,5.0,2.0,pate
+781,54.99,7.5,"wellness trufood tasty pairings with pumpkin,lamb & duck grain-free dog food trays",Wellness,Wellness,5.0,4.0,"minced, shredded"
+782,38.79,9.75,"wysong epigen turkey formula grain-free canned  dog,cat & ferret food",Wysong,Wysong,4.4,9.0,pate
+783,19.40,8.25,mighty dog porterhouse steak flavor in gravy ,Mighty Dog,Mighty Dog,4.5,2.0,chunks in gravy
+784,51.48,9.375,lotus wholesome beef & asparagus stew grain-free ,Lotus,Lotus,4.8,8.0,stew
+785,39.48,9.75,petkind that's it! venison tripe formula grain-free ,PetKind,PetKind,4.1,15.0,pate
+786,33.99,9.899999999999999,"castor & pollux natural ultramix duck & venison,green beans with minnesota wild rice entree adult ",Castor & Pollux,Castor & Pollux,4.5,11.0,stew
+787,28.68,9.899999999999999,precise holistic complete beef with vegetables formula in gravy grain-free ,Precise Holistic Complete,Precise Holistic Complete,4.5,8.0,pate
+788,14.99,4.5,"purina beneful incredibites with salmon,tomatoes,carrots & wild rice ",Purina Beneful,Purina,,,chunks in gravy
+789,16.80,5.25,cesar home delights country stew with vegetables dog food trays,Cesar,Cesar,5.0,5.0,pate
+790,31.08,9.75,dave's pet food stewlicious grain-free hearty beef stew ,Dave's Pet Food,Dave's Pet Food,5.0,4.0,stew
+792,54.99,7.5,"wellness trufood tasty pairings with chicken,carrots & duck grain-free dog food trays",Wellness,Wellness,4.9,7.0,"minced, shredded"
+793,19.99,9.899999999999999,dave's pet food naturally healthy beef & rice recipe ,Dave's Pet Food,Dave's Pet Food,4.4,9.0,pate
+794,44.28,9.899999999999999,go! sensitivity + shine grain-free duck pate formula ,Go!,Go!,4.5,8.0,pate
+795,25.08,2.625,castor & pollux organix tiny feasts grain-free organic chicken recipe dog food trays,Castor & Pollux,Castor & Pollux,5.0,2.0,pate
+796,18.05,2.625,canidae grain-free pure petite cacciatore style dinner with lamb & carrots in sauce small breed dog food trays,CANIDAE,CANIDAE,5.0,1.0,chunks in gravy
+797,13.49,3.9749999999999996,variety pet foods mixables poultry lovers variety pack dog food pouches,Variety Pet Foods,Variety Pet Foods,4.4,5.0,chunks in gravy
+798,28.91,9.75,redbarn naturals chicken pate joint health grain-free ,Redbarn,Redbarn,5.0,2.0,pate
+799,54.99,7.5,"wellness trufood tasty pairings with chicken,green beans & chicken liver grain-free dog food trays",Wellness,Wellness,4.4,7.0,"minced, shredded"
+800,28.99,9.899999999999999,precise naturals chicken & rice foundation formula ,Precise Naturals,Precise Naturals,4.8,5.0,pate
+801,35.88,9.375,caru daily dish chicken stew grain-free wet dog food,Caru,Caru,3.8,6.0,stew
+802,35.88,9.375,caru daily dish beef with chicken stew grain-free wet dog food,Caru,Caru,5.0,3.0,stew
+803,34.68,9.600000000000001,party animal cocolicious 95% wholesome pork grain-free ,Party Animal,Party Animal,4.6,5.0,pate
+804,34.68,9.600000000000001,party animal cocolicious 95% organic beef grain-free ,Party Animal,Party Animal,4.2,10.0,pate
+805,40.07,9.0,evanger's grain-free chicken canned dog & cat food,Evanger's,Evanger's,4.5,21.0,pate
+806,22.99,4.125,halo turkey & chickpea recipe grain-free small breed ,Halo,Halo,4.8,21.0,shredded
+807,30.11,9.75,hound & gatos beef formula grain-free ,Hound & Gatos,Hound & Gatos,4.5,10.0,pate
+808,18.22,8.25,mighty dog thick-sliced chicken dinner in gravy ,Mighty Dog,Mighty Dog,4.0,1.0,chunks in gravy
+809,48.87,20.4,royal canin veterinary diet adult ,Royal Canin Veterinary Diet,Royal Canin,4.8,5.0,pate
+810,44.28,9.899999999999999,go! sensitivity + shine grain-free freshwater trout & salmon pate formula ,Go!,Go!,4.9,15.0,pate
+811,29.88,9.75,redbarn naturals beef stew grain-free ,Redbarn,Redbarn,4.8,9.0,stew
+812,61.08,9.899999999999999,nature's logic venison feast grain-free ,Nature's Logic,Nature's Logic,4.9,10.0,minced
+813,25.99,9.75,dogswell vitality lamb & sweet potato stew recipe grain-free ,Dogswell,Dogswell,5.0,7.0,stew
+814,16.80,5.25,cesar home delights new york strip steak flavor with potatoes & summer vegetables dog food trays,Cesar,Cesar,5.0,1.0,pate
+815,30.92,9.75,nutrisca grain-free lamb & chickpea stew recipe ,Nutrisca,Nutrisca,4.5,2.0,pate
+816,30.89,9.375,avoderm natural grain-free revolving menu lamb recipe adult & puppy ,AvoDerm,AvoDerm,5.0,2.0,pate
+817,16.80,5.25,cesar home delights beef with broccoli dog food trays,Cesar,Cesar,4.8,5.0,chunks in gravy
+818,42.48,9.899999999999999,nature's logic canine duck & salmon feast grain-free ,Nature's Logic,Nature's Logic,3.9,9.0,minced
+819,37.08,9.149999999999999,firstmate salmon formula limited ingredient grain-free ,FirstMate,FirstMate,5.0,1.0,pate
+820,21.99,4.0,blue buffalo earth's essentials harvest table chicken & quinoa in gravy recipe dog food trays,Blue Buffalo,Blue Buffalo,,,chunks in gravy
+821,14.88,9.9,pedigree homestyle meals hearty beef & vegetable flavor in gravy ,Pedigree,Pedigree,5.0,1.0,chunks in gravy
+822,18.99,4.0,"blue buffalo savory lamb stew with potatoes,carrots & peas dog food trays",Blue Buffalo,Blue Buffalo,3.5,2.0,stew
+823,10.80,0.198125,purina bella with beef in savory juices small breed dog food trays,Purina Bella,Purina,5.0,1.0,pate
+824,23.88,9.75,chicken soup for the soul turkey & salmon stew grain-free ,Chicken Soup,Chicken Soup,4.8,4.0,pate
+825,33.60,9.75,"wysong epigen chicken formula grain-free canned  dog,cat & ferret food",Wysong,Wysong,4.1,15.0,pate
+826,42.45,9.899999999999999,halo holistic beef recipe senior ,Halo,Halo,4.5,11.0,pate
+827,8.38,2.625,"cesar classics filet mignon flavor in meaty juices dog food trays,3.5-oz,pack of 12",Cesar,Cesar,,,pate
+828,16.80,5.25,cesar home delights grilled ribeye steak flavor with potatoes & vegetables dog food trays,Cesar,Cesar,5.0,1.0,pate
+829,58.99,9.0,"wellness core chunky centers with turkey,duck & white sweet potato grain-free wet dog food",Wellness,Wellness,4.7,3.0,"pate, chunks in gravy"
+830,37.99,9.899999999999999,castor & pollux natural ultramix minced chicken & bacon with fresh tomatoes entree grain-free adult ,Castor & Pollux,Castor & Pollux,5.0,8.0,stew
+831,33.99,9.75,nutrisca grain-free turkey & chickpea stew recipe ,Nutrisca,Nutrisca,4.7,17.0,stew
+832,30.50,9.524999999999999,"castor & pollux organix organic turkey,carrot & potato recipe adult ",Castor & Pollux,Castor & Pollux,4.1,14.0,pate
+833,16.80,5.25,cesar home delights sausage flavor with egg and cheese dog food trays,Cesar,Cesar,1.0,2.0,chunks in gravy
+834,28.68,9.899999999999999,health extension grain-free savory beef stew ,Health Extension,Health Extension,5.0,2.0,stew
+836,34.68,9.75,party animal kickin' chicken recipe grain-free ,Party Animal,Party Animal,4.9,8.0,pate
+837,34.99,9.75,holistic select duck pate recipe grain-free ,Holistic Select,Holistic Select,4.4,9.0,pate
+838,24.96,7.0,whole earth farms small breed recipe beef dinner grain-free ,Whole Earth Farms,Whole Earth Farms,5.0,1.0,pate
+839,18.05,2.625,canidae grain-free pure petite pottage style dinner with duck & pumpkin in broth small breed dog food trays,CANIDAE,CANIDAE,5.0,1.0,minced
+840,40.60,5.25,royal canin starter mousse mother & babydog birth program dog food trays,Royal Canin,Royal Canin,4.9,9.0,pate
+841,10.80,0.198125,purina bella porterhouse steak flavor in savory juices small breed dog food trays,Purina Bella,Purina,5.0,2.0,pate
+842,10.98,2.25,variety pet foods mixables variety pack dog food pouches,Variety Pet Foods,Variety Pet Foods,,,chunks in gravy
+844,30.00,9.899999999999999,solid gold star chaser chicken & brown rice recipe with vegetables ,Solid Gold,Solid Gold,3.8,11.0,pate
+845,59.88,9.375,caru real beef stew grain-free wet dog food,Caru,Caru,4.5,13.0,stew
+846,30.99,9.524999999999999,newman's own organics chicken formula ,Newman's Own Organics,Newman's Own Organics,4.7,14.0,pate
+847,23.88,9.75,chicken soup for the soul limited ingredient diet lamb & lentils recipe grain-free ,Chicken Soup,Chicken Soup,4.4,8.0,pate
+848,34.68,9.75,party animal chillin' chicken grain-free recipe ,Party Animal,Party Animal,4.6,7.0,pate
+849,33.69,9.75,party animal california turkey recipe ,Party Animal,Party Animal,5.0,4.0,pate
+850,37.08,9.149999999999999,firstmate turkey formula limited ingredient grain-free ,FirstMate,FirstMate,4.8,4.0,pate
+851,54.03,10.350000000000001,addiction new zealand venison & apples entree grain-free ,Addiction,Addiction,5.0,5.0,pate
+852,15.99,5.675,i and love and you cluckin' good & gobble it up stew grain-free combo pack ,I and Love and You,I and Love and You,,,stew
+853,38.66,5.25,nutro ultra protein boost turkey pate dog food trays,Nutro Ultra,Nutro,5.0,1.0,pate
+854,76.56,10.3125,ziwi peak rabbit & lamb recipe ,Ziwi,Ziwi,4.9,16.0,pate
+855,25.08,9.75,i and love and you lambarama stew grain-free ,I and Love and You,I and Love and You,4.5,4.0,stew
+856,33.42,9.75,party animal luscious lamb recipe grain-free ,Party Animal,Party Animal,5.0,6.0,pate
+857,37.49,9.375,wellness core 95% grain-free turkey & spinach ,Wellness,Wellness,5.0,2.0,pate
+858,8.00,3.5,"pedigree chopped ground dinner beef,bacon & cheese flavors wet dog food",Pedigree,Pedigree,4.5,2.0,minced
+859,25.08,9.75,i and love and you gobble it up stew grain-free ,I and Love and You,I and Love and You,4.8,9.0,stew
+860,29.88,9.75,redbarn naturals steak & egg stew grain-free ,Redbarn,Redbarn,4.8,12.0,stew
+861,16.80,5.25,cesar home delights cheesy chicken pasta dinner dog food trays,Cesar,Cesar,4.0,1.0,pate
+862,35.99,9.0,"newman's own organics grain-free premium lamb,liver & vegetable stew ",Newman's Own Organics,Newman's Own Organics,3.7,6.0,stew
+863,20.99,9.75,purina one smartblend true instinct classic ground with real chicken & duck ,Purina ONE,Purina,5.0,1.0,pate
+864,27.99,9.75,under the sun grain-free puppy chicken formula ,Under the Sun,Under the Sun,3.0,3.0,pate
+865,16.80,5.25,cesar classics pate with chicken & veal dog food trays,Cesar,Cesar,5.0,1.0,pate
+866,22.55,9.600000000000001,evanger's classic recipes puppy ,Evanger's,Evanger's,4.6,22.0,pate
+867,34.65,9.75,canine caviar 97% lamb grain-free  supplement,Canine Caviar,Canine Caviar,5.0,6.0,pate
+868,26.99,9.75,"canidae life stages chicken,duck & lentils formula large breed puppy ",CANIDAE,CANIDAE,4.5,11.0,pate
+869,38.16,4.5,instinct by nature's variety small breed grain-free real beef recipe wet ,Instinct,Instinct,4.6,5.0,pate
+870,28.99,9.375,blue buffalo santa stew holiday feast grain-free ,Blue Buffalo,Blue Buffalo,5.0,2.0,stew
+871,61.67,9.75,"ziwi peak daily-dog cuisine lamb,venison & tripe grain-free ",Ziwi,Ziwi,4.5,11.0,pate
+872,8.00,3.5,pedigree chopped ground dinner bacon & filet mignon flavor wet dog food,Pedigree,Pedigree,,,minced
+873,54.03,10.350000000000001,addiction new zealand brushtail & vegetables entree grain-free ,Addiction,Addiction,4.9,13.0,pate
+874,16.68,2.625,"solid gold mighty mini lamb,sweet potato & cranberry toy & small breed recipe grain-free dog food trays",Solid Gold,Solid Gold,,,pate
+875,58.99,9.0,"wellness core chunky centers with beef,lamb & white sweet potato grain-free wet dog food",Wellness,Wellness,4.7,7.0,"pate, chunks in gravy"
+876,16.80,5.25,cesar gourmet filets in sauce new york strip dog food trays,Cesar,Cesar,4.7,3.0,chunks in gravy
+877,55.92,0.859375,ziwi peak mackerel & lamb recipe ,Ziwi,Ziwi,5.0,3.0,pate
+878,18.99,4.0,"blue buffalo hearty beef stew with potatoes,carrots & peas dog food trays",Blue Buffalo,Blue Buffalo,,,stew
+879,9.49,3.5,pedigree choice cuts grilled chicken flavor in sauce wet dog food,Pedigree,Pedigree,5.0,2.0,chunks in gravy
+880,25.08,9.75,i and love and you moo moo venison stew grain-free ,I and Love and You,I and Love and You,5.0,3.0,stew
+881,54.49,9.0,wellness core grain-free 95% turkey with spinach ,Wellness,Wellness,4.1,7.0,pate
+882,34.79,9.75,"wysong epigen salmon formula grain-free canned  dog,cat & ferret food",Wysong,Wysong,4.4,8.0,pate
+883,30.96,8.25,health extension duck entree with sweet potatoes grain-free ,Health Extension,Health Extension,4.3,11.0,pate
+884,21.96,4.125,halo chicken & chickpea recipe grain-free small breed ,Halo,Halo,4.3,18.0,shredded
+885,18.99,4.0,blue buffalo roast turkey dinner with wild rice & peas dog food trays,Blue Buffalo,Blue Buffalo,4.0,1.0,stew
+886,8.99,3.5,"pedigree choice cuts in gravy beef,noodles & vegetables flavor in sauce wet dog food",Pedigree,Pedigree,5.0,1.0,chunks in gravy
+887,16.80,5.25,cesar home delights harvest potluck with turkey dog food trays,Cesar,Cesar,3.4,5.0,pate
+888,16.80,5.25,cesar savory delights porterhouse steak dog food trays,Cesar,Cesar,5.0,3.0,pate
+889,38.64,5.25,nutro ultra protein boost chicken pate dog food trays,Nutro Ultra,Nutro,5.0,2.0,pate
+890,37.89,9.0,evanger's grain-free beef canned dog & cat food,Evanger's,Evanger's,4.0,20.0,pate
+891,47.63,9.0,evanger's grain-free duck canned dog & cat food,Evanger's,Evanger's,3.8,19.0,pate
+892,23.16,16.5,pedigree choice cuts in gravy with beef & liver ,Pedigree,Pedigree,,,chunks in gravy
+893,18.05,2.625,canidae grain-free pure petite fricassee style dinner with turkey & green beans in sauce small breed dog food trays,CANIDAE,CANIDAE,5.0,2.0,chunks in gravy
+894,26.99,9.375,blue buffalo chunky stew lamb dinner in hearty gravy grain-free ,Blue Buffalo,Blue Buffalo,4.8,6.0,stew
+895,14.88,9.9,"pedigree homestyle meals  roasted chicken,rice & vegetable flavor in gravy ",Pedigree,Pedigree,5.0,1.0,chunks in gravy
+896,28.99,9.75,"dave's pet food stewlicious grain-free chunky turkey,sweet potato & cranberry stew ",Dave's Pet Food,Dave's Pet Food,5.0,2.0,stew
+897,16.80,5.25,cesar puppy with lamb & rice dog food trays,Cesar,Cesar,5.0,11.0,pate
+898,26.99,9.375,blue buffalo chunky stew chicken dinner in hearty gravy grain-free ,Blue Buffalo,Blue Buffalo,4.0,4.0,stew
+899,39.48,9.75,petkind tripett green beef tripe & venison grain-free ,PetKind,PetKind,4.8,31.0,pate
+900,29.69,9.375,hill's ideal balance slow-cooked beef & zucchini stew ,Hill's Ideal Balance,Hill's,5.0,2.0,stew
+901,26.99,9.375,blue buffalo chunky stew turkey dinner in hearty gravy grain-free ,Blue Buffalo,Blue Buffalo,4.9,7.0,stew
+902,16.80,5.25,cesar classics pate with chicken & beef dog food trays,Cesar,Cesar,5.0,1.0,pate
+903,16.80,5.25,cesar home delights pot roast dog food trays,Cesar,Cesar,4.8,8.0,chunks in gravy
+904,49.72,20.4,royal canin veterinary diet weight control ,Royal Canin Veterinary Diet,Royal Canin,3.4,5.0,pate
+905,32.64,4.8,instinct by nature's variety grain-free duck formula ,Instinct,Instinct,4.6,24.0,pate
+906,35.28,9.899999999999999,nature's logic sardine feast grain-free ,Nature's Logic,Nature's Logic,4.7,17.0,minced
+907,24.19,9.899999999999999,hi-tor veterinary select eno diet ,HI-TOR,HI-TOR,4.4,9.0,pate
+908,60.12,10.312,ziwi peak lamb recipe ,Ziwi,Ziwi,4.6,18.0,pate
+909,33.96,9.600000000000001,party animal cocolicious wild caught salmon & pork recipe grain-free ,Party Animal,Party Animal,5.0,4.0,pate
+910,36.99,8.25,blue buffalo homestyle recipe toy breed chicken dinner ,Blue Buffalo,Blue Buffalo,4.4,16.0,pate
+911,10.80,0.198125,purina bella with turkey in savory juices small breed dog food trays,Purina Bella,Purina,4.2,5.0,pate
+912,32.83,9.75,gentle giants canine nutrition 90% beef grain-free ,Gentle Giants,Gentle Giants,5.0,1.0,pate
+913,37.08,9.149999999999999,firstmate chicken formula limited ingredient grain-free ,FirstMate,FirstMate,5.0,7.0,pate
+914,32.89,9.75,"wysong epigen beef formula grain-free canned  dog,cat & ferret food",Wysong,Wysong,4.7,16.0,pate
+915,18.72,2.625,merrick lil' plates grain-free rascally rabbit stew dog food trays,Merrick,Merrick,4.9,11.0,stew
+916,26.28,9.75,dave's pet food 95% premium meats grain-free beef & chicken recipe ,Dave's Pet Food,Dave's Pet Food,4.1,16.0,pate
+917,20.28,9.75,dave's pet food naturally healthy joint formula ,Dave's Pet Food,Dave's Pet Food,4.0,4.0,pate
+918,9.44,3.5,pedigree chopped meaty ground dinner with hearty chicken wet dog food,Pedigree,Pedigree,,,minced
+919,58.99,9.0,"wellness core chunky centers with chicken,chicken liver & spinach grain-free wet dog food",Wellness,Wellness,4.8,13.0,"pate, chunks in gravy"
+920,28.33,6.0,natural balance delectable delights pawpaya pilaf stew wet dog food,Natural Balance,Natural Balance,4.7,7.0,stew
+921,30.50,9.524999999999999,castor & pollux organix organic turkey & vegetable recipe adult ,Castor & Pollux,Castor & Pollux,4.1,11.0,pate
+922,30.00,9.9,"solid gold fit & fabulous chicken,sweet potato & green bean weight control recipe grain-free ",Solid Gold,Solid Gold,,,pate
+923,18.05,2.625,canidae grain-free pure petite bolognese style dinner with beef & carrots in broth small breed dog food trays,CANIDAE,CANIDAE,5.0,1.0,bits in broth
+924,34.68,9.75,party animal jammin' salmon recipe grain-free ,Party Animal,Party Animal,4.8,4.0,pate
+925,39.99,8.25,blue buffalo wilderness rocky mountain recipe with rabbit adult grain-free ,Blue Buffalo,Blue Buffalo,4.8,5.0,pate
+926,16.80,5.25,cesar gourmet filets in sauce prime rib dog food trays,Cesar,Cesar,5.0,4.0,chunks in gravy
+927,21.26,9.75,"canidae life stages chicken,duck & lentils formula large breed adult ",CANIDAE,CANIDAE,5.0,5.0,pate
+928,30.99,9.899999999999999,precise naturals lamb & rice sensicare formula ,Precise Naturals,Precise Naturals,5.0,9.0,pate
+929,19.99,4.0,blue buffalo wilderness trail tubs duck stew grain-free dog food trays,Blue Buffalo,Blue Buffalo,5.0,3.0,stew
+930,9.87,4.949999999999999,variety pet foods homestyle stew poultry lovers variety pack ,Variety Pet Foods,Variety Pet Foods,3.8,4.0,stew
+931,40.99,9.524999999999999,hill's prescription diet n/d with chicken canine ,Hill's Prescription Diet,Hill's,4.5,10.0,pate
+932,28.33,6.0,natural balance delectable delights fetchin' catchin's stew wet dog food,Natural Balance,Natural Balance,4.2,6.0,stew
+933,16.77,9.9,pedigree homestyle meals porterhouse steak & vegetable flavor in gravy ,Pedigree,Pedigree,5.0,1.0,chunks in gravy
+934,8.38,2.625,cesar canine cuisine grilled chicken flavor dog food trays,Cesar,Cesar,5.0,3.0,chunks in gravy
+935,33.92,4.125,natural balance delectable delights surf 'n turf grain-free wet dog food,Natural Balance,Natural Balance,5.0,1.0,stew
+936,34.68,9.600000000000001,party animal cocolicious lamb & wild caught salmon recipe grain-free ,Party Animal,Party Animal,4.9,9.0,pate
+937,30.00,9.899999999999999,solid gold sundancer 95% chicken recipe grain-free ,Solid Gold,Solid Gold,4.1,16.0,pate
+938,59.76,15.0,nature's recipe grain-free chicken & venison stew ,Nature's Recipe,Nature's Recipe,4.8,15.0,stew
+939,21.07,4.125,halo holistic turkey & salmon recipe adult ,Halo,Halo,4.7,31.0,stew
+940,26.99,9.75,dogswell vitality chicken & sweet potato stew recipe grain-free ,Dogswell,Dogswell,4.5,11.0,stew
+941,15.99,5.675,i and love and you beef booyah & moo moo venison stew grain-free combo pack ,I and Love and You,I and Love and You,4.5,2.0,stew
+942,39.99,5.25,nutro ultra shiny coat boost salmon pate dog food trays,Nutro Ultra,Nutro,4.7,6.0,pate
+943,19.38,4.95,instinct by nature's variety ultimate protein grain-free beef formula ,Instinct,Instinct,4.1,10.0,pate
+944,16.80,5.25,"cesar home delights grilled porterhouse steak flavor with potatoes,bacon & cheese dog food trays",Cesar,Cesar,4.2,5.0,pate
+945,33.99,4.5,"wellness petite entrees casserole with roasted turkey,duck,carrots & peas grain-free wet dog food",Wellness,Wellness,4.8,11.0,minced
+946,31.46,9.75,hound & gatos chicken & chicken liver formula grain-free ,Hound & Gatos,Hound & Gatos,5.0,9.0,pate
+947,31.44,9.524999999999999,merrick backcountry grain-free chunky beef dinner in gravy ,Merrick,Merrick,4.8,4.0,chunks in gravy
+949,43.65,10.5,weruva peking ducken with chicken & duck in gravy grain-free ,Weruva,Weruva,4.8,14.0,chunks in gravy
+950,38.28,9.75,wild calling rainbow river 96% salmon grain-free adult ,Wild Calling,Wild Calling,4.4,21.0,pate
+951,25.92,8.25,purina pro plan savor adult classic beef & brown rice entree ,Purina Pro Plan,Purina,4.8,10.0,pate
+952,53.54,20.4,royal canin veterinary diet mature consult formula ,Royal Canin Veterinary Diet,Royal Canin,4.5,8.0,pate
+953,18.99,8.25,mighty dog with lamb & rice ,Mighty Dog,Mighty Dog,4.9,7.0,minced
+954,34.99,9.75,holistic select turkey & duck pate recipe grain-free ,Holistic Select,Holistic Select,4.2,8.0,pate
+955,17.94,5.7,instinct by nature's variety grain-free stews turkey & cod recipe wet ,Instinct,Instinct,5.0,3.0,stew
+956,37.49,9.375,wellness core 95% grain-free chicken & broccoli ,Wellness,Wellness,5.0,2.0,pate
+957,13.99,2.625,blue buffalo divine delights top sirloin flavor pate dog food trays,Blue Buffalo,Blue Buffalo,5.0,3.0,pate
+958,28.99,9.899999999999999,victor lamb & rice formula ,Victor,Victor,5.0,7.0,pate
+959,28.99,9.899999999999999,victor chicken & rice formula ,Victor,Victor,4.3,6.0,pate
+960,31.44,9.524999999999999,merrick backcountry grain-free chunky chicken dinner in gravy ,Merrick,Merrick,5.0,4.0,chunks in gravy
+961,17.44,5.0,purina pro plan savory meals braised pork entree with real carrots wet dog food,Purina Pro Plan,Purina,5.0,4.0,chunks in gravy
+962,26.97,9.899999999999999,precise holistic complete chicken with vegetables formula in gravy grain-free ,Precise Holistic Complete,Precise Holistic Complete,4.2,22.0,pate
+963,26.99,11.25,dave's pet food grain-free roasted pork & sweet potato ,Dave's Pet Food,Dave's Pet Food,4.6,20.0,pate
+964,33.99,9.375,wellness core hearty cuts in gravy whitefish & salmon recipe grain-free ,Wellness,Wellness,4.2,8.0,chunks in gravy
+965,42.58,10.5,weruva hot dayam! with luscious lamb in gelee grain-free ,Weruva,Weruva,4.6,10.0,aspic / gelee
+967,29.99,9.600000000000001,party animal cocolicious 95% organic chicken grain-free ,Party Animal,Party Animal,4.8,8.0,pate
+968,35.88,9.75,zignature catfish limited ingredient formula grain-free ,Zignature,Zignature,5.0,4.0,pate
+969,18.99,4.0,"blue buffalo homestyle chicken stew with potatoes,carrots & peas dog food trays",Blue Buffalo,Blue Buffalo,5.0,1.0,stew
+970,13.99,2.625,blue buffalo divine delights porterhouse flavor pate dog food trays,Blue Buffalo,Blue Buffalo,5.0,2.0,pate
+971,9.87,4.949999999999999,variety pet foods homestyle stew meat lovers variety pack ,Variety Pet Foods,Variety Pet Foods,2.5,2.0,stew
+972,33.99,4.5,"wellness petite entrees casserole with braised beef,salmon,green beans & red peppers grain-free wet dog food",Wellness,Wellness,4.7,15.0,minced
+973,33.99,9.899999999999999,"castor & pollux natural ultramix beef tripe & chicken,apples & green peas entree grain-free adult ",Castor & Pollux,Castor & Pollux,4.6,17.0,stew
+974,31.37,9.6,evanger's grain-free pork canned dog & cat food,Evanger's,Evanger's,4.4,25.0,pate
+975,17.94,5.7,instinct by nature's variety grain-free stews turkey & duck recipe wet ,Instinct,Instinct,4.0,2.0,stew
+976,24.49,9.75,avoderm natural vegetarian formula adult ,AvoDerm,AvoDerm,4.9,12.0,pate
+978,24.99,9.899999999999999,eagle pack turkey formula ,Eagle Pack,Eagle Pack,3.7,6.0,pate
+979,16.80,5.25,cesar savory delights filet mignon dog food trays,Cesar,Cesar,4.5,11.0,pate
+980,30.00,9.899999999999999,solid gold barking at the moon 95% beef recipe grain-free ,Solid Gold,Solid Gold,4.2,15.0,pate
+981,34.99,9.75,"holistic select whitefish,salmon & herring pate recipe grain-free ",Holistic Select,Holistic Select,4.3,11.0,pate
+982,16.80,5.25,cesar steak lover's variety pack dog food trays,Cesar,Cesar,5.0,3.0,pate
+983,19.99,4.0,blue buffalo wilderness trail tubs turkey stew grain-free dog food trays,Blue Buffalo,Blue Buffalo,5.0,1.0,stew
+984,10.80,0.198125,purina bella filet mignon flavor in savory juices small breed dog food trays,Purina Bella,Purina,5.0,2.0,pate
+985,28.99,9.899999999999999,victor grain-free turkey & sweet potato stew ,Victor,Victor,4.0,7.0,chunks in gravy
+986,31.47,9.375,avoderm natural grain-free salmon & potato stew recipe adult & puppy ,AvoDerm,AvoDerm,4.4,17.0,stew
+987,35.88,9.375,caru daily dish beef stew grain-free wet dog food,Caru,Caru,4.1,7.0,stew
+988,54.99,7.5,"wellness trufood tasty pairings with chicken,pumpkin & beef grain-free dog food trays",Wellness,Wellness,4.8,6.0,"minced, shredded"
+989,17.44,5.0,purina pro plan savory meals grilled salmon entree with real sweet potatoes wet dog food,Purina Pro Plan,Purina,5.0,3.0,grilled
+990,30.02,5.25,"nutro ultra adult pate chicken,lamb & salmon entree dog food trays",Nutro Ultra,Nutro,4.5,4.0,pate
+991,35.99,9.0,newman's own organics grain-free premium beef & vegetable stew ,Newman's Own Organics,Newman's Own Organics,4.0,16.0,stew
+992,30.99,9.375,blue buffalo halloween boo stew ,Blue Buffalo,Blue Buffalo,5.0,1.0,
+993,17.21,2.0999999999999996,tiki dog north shore luau wild salmon on brown rice ,Tiki Dog,Tiki Dog,4.8,20.0,shredded
+994,38.28,9.75,wild calling mountain lake 96% duck grain-free adult ,Wild Calling,Wild Calling,4.5,15.0,pate
+995,19.28,9.9,eukanuba puppy lamb & rice formula ,Eukanuba,Eukanuba,5.0,2.0,minced
+996,35.88,9.375,caru daily dish turkey with lamb stew grain-free wet dog food,Caru,Caru,4.9,14.0,stew
+997,54.49,9.0,wellness core grain-free 95% beef with carrots recipe ,Wellness,Wellness,4.5,13.0,pate
+999,9.87,4.78125,variety pet foods homestyle stew turkey & lamb variety pack ,Variety Pet Foods,Variety Pet Foods,4.0,2.0,stew
+1000,17.28,8.25,mighty dog hearty beef dinner ,Mighty Dog,Mighty Dog,4.8,10.0,minced
+1002,54.49,9.0,wellness core grain-free 95% chicken with broccoli ,Wellness,Wellness,4.9,9.0,pate
+1003,33.99,9.75,nutrisca grain-free chicken & chickpea stew recipe ,Nutrisca,Nutrisca,4.6,16.0,stew
+1004,38.28,9.75,wild calling shepherd's choice 96% lamb grain-free adult ,Wild Calling,Wild Calling,4.3,21.0,pate
+1005,7.59,9.9,"kibbles 'n bits chef's choice bistro,homestyle & american grill variety pack ",Kibbles 'n Bits,Kibbles 'n Bits,,,chunks in gravy
+1006,32.83,9.75,gentle giants canine nutrition 90% salmon grain-free ,Gentle Giants,Gentle Giants,5.0,2.0,pate
+1007,33.92,4.125,natural balance delectable delights fish 'n chicks grain-free wet dog food,Natural Balance,Natural Balance,5.0,2.0,stew
+1008,16.80,5.25,cesar home delights beef stew dog food trays,Cesar,Cesar,5.0,6.0,chunks in gravy
+1009,18.99,4.0,"blue buffalo country chicken dinner with green beans,carrots & wild rice dog food trays",Blue Buffalo,Blue Buffalo,4.0,3.0,stew
+1010,18.99,4.0,"blue buffalo braised beef dinner with green beans,carrots & wild rice dog food trays",Blue Buffalo,Blue Buffalo,5.0,1.0,stew
+1011,33.99,4.5,"wellness petite entrees shredded medley with roasted chicken,beef,green beans & red peppers grain-free wet dog food",Wellness,Wellness,5.0,8.0,shredded
+1012,34.99,9.75,holistic select lamb pate recipe grain-free ,Holistic Select,Holistic Select,4.6,16.0,pate
+1013,16.80,5.25,cesar home delights t-bone steak flavor with egg and cheese dog food trays,Cesar,Cesar,5.0,3.0,chunks in gravy
+1014,16.80,5.25,cesar home delights chicken & turkey casserole dog food trays,Cesar,Cesar,5.0,5.0,pate
+1015,40.32,10.5,weruva amazon liver with chicken & chicken liver in pumpkin soup grain-free ,Weruva,Weruva,4.7,21.0,chunks in gravy
+1016,4.93,1.75,pedigree choice cuts variety pack beef & chicken wet dog food,Pedigree,Pedigree,4.0,2.0,chunks in gravy
+1017,16.80,5.25,cesar home delights meat lasagna dog food trays,Cesar,Cesar,4.5,13.0,chunks in gravy
+1018,30.02,5.25,"nutro ultra puppy pate chicken,lamb & salmon entree dog food trays",Nutro Ultra,Nutro,4.9,10.0,pate
+1019,44.14,9.0,evanger's grain-free buffalo canned dog & cat food,Evanger's,Evanger's,4.4,28.0,pate
+1020,16.44,9.899999999999999,"precise holistic complete salmon & trout ""wild at heart river line"" grain-free ",Precise Holistic Complete,Precise Holistic Complete,4.6,7.0,chunks in gravy
+1021,16.80,5.25,cesar classics pate top sirloin flavor dog food trays,Cesar,Cesar,5.0,4.0,pate
+1022,8.89,9.9,kibbles 'n bits chef’s choice american grill & bistro variety pack ,Kibbles 'n Bits,Kibbles 'n Bits,4.0,2.0,chunks in gravy
+1023,34.68,9.600000000000001,party animal cocolicious organic chicken & beef recipe grain-free ,Party Animal,Party Animal,4.9,8.0,pate
+1024,31.44,9.524999999999999,merrick backcountry grain-free hearty beef stew ,Merrick,Merrick,4.4,14.0,stew
+1025,17.44,5.0,purina pro plan savory meals braised turkey entree with barley wet dog food,Purina Pro Plan,Purina,5.0,4.0,chunks in gravy
+1026,18.96,5.0,purina pro plan savory meals braised chicken entree with real spinach wet dog food,Purina Pro Plan,Purina,5.0,3.0,chunks in gravy
+1027,35.49,9.524999999999999,petguard organic vegan formula ,PetGuard,PetGuard,4.1,22.0,pate
+1028,32.99,9.75,canidae grain-free pure foundations puppy formula with chicken ,CANIDAE,CANIDAE,4.8,8.0,pate
+1029,11.76,9.9,pedigree chopped ground dinner t-bone steak flavor ,Pedigree,Pedigree,5.0,2.0,minced
+1030,25.92,8.25,"purina pro plan savor adult shredded turkey,peas & brown rice entree in gravy ",Purina Pro Plan,Purina,4.5,6.0,chunks in gravy
+1031,24.49,9.75,avoderm natural chicken & rice formula ,AvoDerm,AvoDerm,4.7,13.0,pate
+1032,24.49,9.75,avoderm natural lamb meal & rice formula ,AvoDerm,AvoDerm,4.9,14.0,pate
+1033,15.65,2.63,hill's science diet puppy small & toy breed savory chicken & vegetable stew dog food trays,Hill's Science Diet,Hill's,5.0,2.0,stew
+1034,15.36,5.0,"purina beneful chopped blends with lamb,brown rice,carrots,tomatoes & spinach wet dog food,10-oz container,case of 8",Purina Beneful,Purina,,,shredded
+1035,8.00,3.5,pedigree choice cuts chicken casserole in gravy wet dog food,Pedigree,Pedigree,,,chunks in gravy
+1036,15.99,9.899999999999999,triumph turkey formula ,Triumph,Triumph,4.6,17.0,pate
+1037,41.74,9.75,canine caviar 97% goat grain-free  supplement,Canine Caviar,Canine Caviar,4.8,12.0,pate
+1038,32.83,9.75,gentle giants canine nutrition 90% turkey & liver grain-free ,Gentle Giants,Gentle Giants,4.8,6.0,pate
+1039,33.99,4.5,"wellness petite entrees shredded medley with tender chicken,turkey,carrots & green beans grain-free wet dog food",Wellness,Wellness,4.7,9.0,shredded
+1040,17.04,2.0999999999999996,weruva dogs in the kitchen goldie lox with chicken & wild caught salmon au jus grain-free dog food pouches,Weruva,Weruva,4.5,11.0,bits in broth
+1041,45.48,10.5,"weruva green eggs & chicken with chicken,egg,& greens in gravy grain-free ",Weruva,Weruva,4.9,12.0,chunks in gravy
+1042,45.24,10.5,tiki dog maui luau chicken on brown rice with sweet potato ,Tiki Dog,Tiki Dog,5.0,11.0,shredded
+1043,13.99,2.625,blue buffalo divine delights angus beef flavor pate dog food trays,Blue Buffalo,Blue Buffalo,5.0,1.0,pate
+1044,19.40,8.25,mighty dog rotisserie chicken flavor ,Mighty Dog,Mighty Dog,4.7,6.0,minced
+1045,29.88,9.75,nulo freestyle lamb & lentils recipe grain-free ,Nulo,Nulo,4.9,12.0,pate
+1046,25.92,8.25,purina pro plan savor adult shredded beef & lamb entree in gravy ,Purina Pro Plan,Purina,5.0,6.0,chunks in gravy
+1047,23.99,9.375,nutro ultra adult chunks in gravy ,Nutro Ultra,Nutro,4.8,48.0,chunks in gravy
+1048,20.49,9.375,eukanuba puppy mixed grill chicken & beef dinner in gravy formula ,Eukanuba,Eukanuba,4.3,19.0,chunks in gravy
+1049,18.72,2.625,merrick lil' plates grain-free little lamb chop stew dog food trays,Merrick,Merrick,4.6,15.0,stew
+1051,13.94,4.5,"purina beneful incredibites with chicken,tomatoes,carrots & wild rice ",Purina Beneful,Purina,5.0,1.0,chunks in gravy
+1052,33.02,9.524999999999999,newman's own organics grain-free 95% turkey dinner ,Newman's Own Organics,Newman's Own Organics,4.7,17.0,pate
+1053,80.88,10.3125,ziwi peak venison recipe ,Ziwi,Ziwi,4.5,22.0,pate
+1054,33.99,9.375,wellness core hearty cuts in gravy turkey & duck recipe grain-free ,Wellness,Wellness,4.9,8.0,chunks in gravy
+1055,16.80,5.25,cesar savory delights rosemary chicken dog food trays,Cesar,Cesar,4.9,8.0,pate
+1056,28.68,9.75,health extension turkey entree with sweet potatoes grain-free ,Health Extension,Health Extension,4.6,13.0,pate
+1057,16.99,2.625,blue buffalo wilderness trail trays duck grill formula grain-free dog food trays,Blue Buffalo,Blue Buffalo,5.0,1.0,pate
+1058,18.99,8.25,"mighty dog chicken,egg & bacon country platter ",Mighty Dog,Mighty Dog,4.9,14.0,minced
+1059,37.49,9.375,wellness core 95% grain-free beef & carrots ,Wellness,Wellness,5.0,1.0,pate
+1060,11.99,9.9,pedigree choice cuts in gravy with chicken ,Pedigree,Pedigree,5.0,4.0,chunks in gravy
+1062,30.96,8.25,health extension lamb entree ,Health Extension,Health Extension,4.7,18.0,pate
+1063,19.99,11.45,dave's pet food naturally healthy chicken & rice recipe ,Dave's Pet Food,Dave's Pet Food,4.8,21.0,pate
+1064,27.59,9.6,evanger's grain-free chicken canned dog & cat food,Evanger's,Evanger's,4.1,63.0,pate
+1065,30.00,9.899999999999999,"solid gold howling at the stars turkey,ocean white fish & sweet potato recipe ",Solid Gold,Solid Gold,4.9,21.0,pate
+1066,19.38,4.95,instinct by nature's variety ultimate protein grain-free chicken formula ,Instinct,Instinct,4.9,7.0,pate
+1067,30.24,4.8,instinct by nature's variety grain-free small breed chicken formula ,Instinct,Instinct,4.9,17.0,pate
+1068,38.79,9.75,"wysong epigen rabbit formula grain-free canned  dog,cat & ferret food",Wysong,Wysong,4.0,23.0,pate
+1069,17.21,2.0999999999999996,tiki dog lahaina luau succulent chicken on brown rice with crab ,Tiki Dog,Tiki Dog,5.0,8.0,shredded
+1070,28.08,4.95,instinct by nature's variety grain-free rabbit formula ,Instinct,Instinct,4.6,32.0,pate
+1071,32.83,9.75,gentle giants canine nutrition 90% chicken grain-free ,Gentle Giants,Gentle Giants,5.0,2.0,pate
+1072,22.99,4.125,halo turkey & duck recipe grain-free small breed ,Halo,Halo,4.3,16.0,pate
+1073,15.65,2.63,hill's science diet adult 7+ small & toy breed savory chicken & vegetable stew dog food trays,Hill's Science Diet,Hill's,,,stew
+1074,13.10,9.9,"alpo prime cuts with chicken & wholesome veggie accents in gravy ,13.2-oz,case of 12",ALPO,ALPO,4.2,4.0,chunks in gravy
+1075,29.52,9.524999999999999,castor & pollux organix grain-free butcher & bushel organic tender chicken dinner in gravy adult ,Castor & Pollux,Castor & Pollux,4.6,9.0,chunks in gravy
+1076,33.66,9.899999999999999,halo holistic chicken recipe senior ,Halo,Halo,4.6,5.0,pate
+1077,35.88,9.75,zignature salmon limited ingredient formula grain-free ,Zignature,Zignature,4.0,8.0,pate
+1078,32.28,9.75,wild calling country best 96% pork grain-free adult ,Wild Calling,Wild Calling,4.7,12.0,pate
+1079,22.55,9.600000000000001,evanger's classic recipes beef with chicken grain-free ,Evanger's,Evanger's,4.6,50.0,pate
+1080,28.39,9.75,under the sun grain-free lamb formula ,Under the Sun,Under the Sun,4.5,10.0,pate
+1081,38.74,10.5,weruva cirque de la mer with tuna & veggies in pumpkin soup grain-free ,Weruva,Weruva,4.9,14.0,chunks in gravy
+1082,22.55,9.600000000000001,evanger's classic recipes lamb & rice dinner ,Evanger's,Evanger's,4.6,30.0,pate
+1083,31.74,9.375,avoderm natural grain-free beef & potato stew recipe adult & puppy ,AvoDerm,AvoDerm,4.4,18.0,stew
+1084,33.99,4.5,"wellness petite entrees casserole with roasted lamb,peas & white sweet potatoes grain-free wet dog food",Wellness,Wellness,4.9,15.0,minced
+1085,34.99,9.75,holistic select beef pate recipe grain-free ,Holistic Select,Holistic Select,4.6,16.0,pate
+1086,24.99,9.899999999999999,eagle pack beef formula ,Eagle Pack,Eagle Pack,4.5,14.0,pate
+1087,29.69,9.38,hill's ideal balance slow-cooked chicken & zucchini stew ,Hill's Ideal Balance,Hill's,4.5,4.0,stew
+1088,16.80,5.25,cesar savory delights angus beef dog food trays,Cesar,Cesar,5.0,6.0,pate
+1089,33.92,4.125,natural balance delectable delights woof'erole grain-free wet dog food,Natural Balance,Natural Balance,5.0,4.0,stew
+1090,16.80,5.25,cesar sunrise breakfast chicken & cheddar cheese souffle dog food trays,Cesar,Cesar,4.6,8.0,pate
+1091,17.44,5.0,purina pro plan savory meals braised beef entree with wild rice wet dog food,Purina Pro Plan,Purina,5.0,2.0,chunks in gravy
+1092,39.48,9.75,petkind tripett green bison tripe grain-free ,PetKind,PetKind,4.8,37.0,pate
+1093,17.21,2.0999999999999996,tiki dog lomi lomi luau wild salmon & chicken on brown rice ,Tiki Dog,Tiki Dog,4.9,20.0,shredded
+1094,18.97,4.125,halo holistic lamb recipe adult ,Halo,Halo,4.9,23.0,stew
+1095,26.99,11.25,dave's pet food grain-free poached salmon entree ,Dave's Pet Food,Dave's Pet Food,4.9,24.0,pate
+1096,19.99,4.0,blue buffalo wilderness trail tubs chicken stew grain-free dog food trays,Blue Buffalo,Blue Buffalo,5.0,2.0,stew
+1097,17.04,2.0999999999999996,weruva dogs in the kitchen funk in the trunk with chicken breast & pumpkin au jus grain-free dog food pouches,Weruva,Weruva,4.9,15.0,bits in broth
+1098,31.44,9.524999999999999,merrick backcountry grain-free 96% real chicken recipe ,Merrick,Merrick,4.6,8.0,pate
+1099,15.99,9.899999999999999,triumph chicken formula ,Triumph,Triumph,4.9,15.0,pate
+1100,32.28,9.75,wild calling turkey trot 96% turkey grain-free adult ,Wild Calling,Wild Calling,3.8,12.0,pate
+1101,31.44,9.524999999999999,merrick backcountry grain-free chunky lamb dinner in gravy ,Merrick,Merrick,4.5,11.0,chunks in gravy
+1102,25.99,9.375,avoderm natural grain-free chicken & vegetable stew recipe adult & puppy ,AvoDerm,AvoDerm,4.3,16.0,stew
+1103,23.99,9.375,nutro ultra senior chunks in gravy ,Nutro Ultra,Nutro,4.8,82.0,chunks in gravy
+1104,28.99,9.899999999999999,victor grain-free chicken & vegetables entree in gravy ,Victor,Victor,4.8,4.0,chunks in gravy
+1105,28.68,9.4,nutro limited ingredient diet grain-free adult fish & potato recipe ,Nutro,Nutro,4.2,12.0,pate
+1106,16.99,2.625,blue buffalo wilderness trail trays turkey grill formula grain-free dog food trays,Blue Buffalo,Blue Buffalo,5.0,2.0,pate
+1107,23.99,4.125,halo chicken & salmon recipe grain-free small breed ,Halo,Halo,5.0,16.0,pate
+1108,60.12,10.3125,ziwi peak beef recipe ,Ziwi,Ziwi,4.7,13.0,pate
+1109,58.49,8.25,purina pro plan veterinary diets cn critical nutrition formula canned dog & cat food,Purina Pro Plan Veterinary Diets,Purina,4.6,11.0,minced
+1110,30.77,9.899999999999999,castor & pollux natural ultramix all-beef sausage links & sweet potato entree grain-free adult ,Castor & Pollux,Castor & Pollux,4.8,25.0,stew
+1111,20.49,9.375,eukanuba adult chicken & vegetable stew formula ,Eukanuba,Eukanuba,3.9,10.0,stew
+1112,9.62,4.78125,variety pet foods grandma's casserole & savannah crockpot variety pack ,Variety Pet Foods,Variety Pet Foods,4.6,5.0,stew
+1113,26.40,4.95,instinct by nature's variety grain-free lamb formula ,Instinct,Instinct,4.5,29.0,pate
+1114,17.04,2.0999999999999996,weruva dogs in the kitchen love me tender with chicken breast au jus grain-free dog food pouches,Weruva,Weruva,4.2,17.0,bits in broth
+1115,25.99,9.375,avoderm natural grain-free turkey & vegetable stew recipe adult & puppy ,AvoDerm,AvoDerm,4.9,16.0,stew
+1116,32.99,9.375,wellness complete health whitefish & sweet potato formula ,Wellness,Wellness,4.6,27.0,pate
+1117,18.22,9.75,"iams proactive health adult turkey,vegetables and rice flavor chunks in gravy ",Iams,Iams,4.9,9.0,chunks in gravy
+1118,11.91,9.75,"alpo chop house beef tenderloin flavor in gravy ,13.2-oz,case of 12",ALPO,ALPO,4.5,10.0,chunks in gravy
+1119,16.80,5.25,cesar original pate with beef dog food trays,Cesar,Cesar,5.0,4.0,pate
+1120,19.97,9.75,purina one smartblend true instinct tender cuts in gravy with real chicken & duck ,Purina ONE,Purina,4.3,6.0,chunks in gravy
+1121,33.99,4.5,"wellness petite entrees shredded medley with braised lamb,venison,white sweet potatoes & carrots grain-free wet dog food",Wellness,Wellness,4.9,7.0,shredded
+1122,25.08,9.75,i and love and you beef booyah stew grain-free ,I and Love and You,I and Love and You,4.8,12.0,stew
+1123,21.49,9.4,nutro puppy tender lamb & rice recipe pate ,Nutro,Nutro,4.6,14.0,pate
+1124,19.99,9.75,dave's pet food naturally healthy liver & beef recipe ,Dave's Pet Food,Dave's Pet Food,4.6,28.0,pate
+1125,50.80,0.3625,royal canin starter mousse mother & babydog ,Royal Canin,Royal Canin,4.9,38.0,pate
+1126,32.99,9.75,evanger's grain-free quail canned dog & cat food,Evanger's,Evanger's,4.5,12.0,pate
+1129,26.28,9.75,dave's pet food grain-free turkey & bacon recipe ,Dave's Pet Food,Dave's Pet Food,4.8,18.0,pate
+1130,31.44,9.524999999999999,merrick chunky grain-free carver's delight dinner ,Merrick,Merrick,4.3,23.0,chunks in gravy
+1131,28.33,6.0,natural balance delectable delights choplick'n stew wet dog food,Natural Balance,Natural Balance,4.8,12.0,stew
+1132,29.99,9.375,blue buffalo wilderness bayou blend with alligator & catfish grain-free ,Blue Buffalo,Blue Buffalo,4.3,27.0,pate
+1133,29.88,9.75,"nulo freestyle chicken,carrots & peas recipe grain-free ",Nulo,Nulo,4.8,5.0,pate
+1134,17.94,5.7,instinct by nature's variety grain-free stews beef recipe wet ,Instinct,Instinct,5.0,2.0,stew
+1135,17.94,4.7625,instinct by nature's variety grain-free stews chicken recipe wet ,Instinct,Instinct,4.9,7.0,stew
+1136,11.37,4.78125,variety pet foods healthy coat variety pack ,Variety Pet Foods,Variety Pet Foods,4.7,7.0,stew
+1137,29.99,9.375,"blue buffalo wilderness flatland feast turkey,quail & duck formula grain-free ",Blue Buffalo,Blue Buffalo,4.3,6.0,pate
+1138,17.21,2.0999999999999996,tiki dog kauai luau succulent chicken on brown rice with tiger prawns ,Tiki Dog,Tiki Dog,4.9,18.0,shredded
+1140,32.99,9.375,wellness complete health duck & sweet potato formula ,Wellness,Wellness,5.0,24.0,pate
+1141,26.41,9.75,dogswell happy hips duck & sweet potato stew recipe grain-free ,Dogswell,Dogswell,4.9,17.0,stew
+1142,10.09,9.9,"pedigree chopped ground dinner with chicken,beef & liver ",Pedigree,Pedigree,4.8,5.0,minced
+1143,32.28,9.75,wild calling chicken coop 96% chicken grain-free adult ,Wild Calling,Wild Calling,4.3,14.0,pate
+1144,4.93,1.75,pedigree choice cuts variety pack grilled chicken & filet mignon flavor wet dog food,Pedigree,Pedigree,4.5,4.0,chunks in gravy
+1145,25.92,8.25,"purina pro plan savor adult seared beef,green beans & brown rice entree in gravy ",Purina Pro Plan,Purina,5.0,7.0,chunks in gravy
+1146,38.24,8.25,weruva grandma's chicken soup with chicken& veggies grain-free ,Weruva,Weruva,4.1,16.0,chunks in gravy
+1147,27.44,10.125,royal canin weight care in gel ,Royal Canin,Royal Canin,4.2,6.0,pate
+1148,33.99,4.5,"wellness petite entrees mini-filets with roasted chicken,carrots & red peppers in gravy grain-free wet dog food",Wellness,Wellness,4.5,11.0,chunks in gravy
+1150,23.59,9.75,"natural balance original ultra whole body health puppy formula chicken,duck & brown rice ",Natural Balance,Natural Balance,4.1,15.0,pate
+1151,29.88,9.75,"nulo freestyle beef,peas & carrot recipe grain-free ",Nulo,Nulo,4.4,7.0,pate
+1152,36.48,9.899999999999999,nature's logic canine lamb feast grain-free ,Nature's Logic,Nature's Logic,4.9,16.0,minced
+1153,28.33,6.0,natural balance delectable delights chow-down chowder stew wet dog food,Natural Balance,Natural Balance,4.3,15.0,stew
+1154,28.08,4.95,instinct by nature's variety limited ingredient diet grain-free duck formula ,Instinct,Instinct,4.6,12.0,pate
+1155,17.99,2.625,blue buffalo divine delights pate variety pack top sirloin & grilled chicken flavor dog food trays,Blue Buffalo,Blue Buffalo,,,pate
+1156,13.99,2.625,blue buffalo divine delights filet mignon flavor pate dog food trays,Blue Buffalo,Blue Buffalo,4.3,3.0,pate
+1157,24.71,0.929375,purina beyond grain-free turkey & sweet potato recipe ground entree ,Purina Beyond,Purina,4.6,8.0,pate
+1158,30.00,9.899999999999999,"solid gold hund-n-flocken lamb,brown rice & barley recipe ",Solid Gold,Solid Gold,5.0,22.0,pate
+1159,75.99,20.4,royal canin veterinary diet vegetarian ,Royal Canin Veterinary Diet,Royal Canin,4.8,13.0,pate
+1160,13.99,2.625,"blue buffalo divine delights sausage,egg & cheese flavor pate dog food trays",Blue Buffalo,Blue Buffalo,5.0,2.0,pate
+1161,35.88,9.75,zignature whitefish limited ingredient formula grain-free ,Zignature,Zignature,4.1,16.0,pate
+1162,21.99,9.4,nutro puppy tender chicken & oatmeal recipe pate ,Nutro,Nutro,4.6,16.0,pate
+1163,10.80,0.198125,purina bella grilled chicken flavor in savory juices small breed dog food trays,Purina Bella,Purina,4.3,6.0,pate
+1164,16.80,5.25,cesar puppy with chicken & beef dog food trays,Cesar,Cesar,4.6,14.0,pate
+1165,29.99,9.375,"blue buffalo wilderness snake river grill trout,venison & rabbit formula grain-free ",Blue Buffalo,Blue Buffalo,4.0,6.0,pate
+1166,20.99,4.875,"wysong epigen variety pack grain-free canned  dog,cat & ferret food",Wysong,Wysong,3.8,54.0,pate
+1167,19.99,4.0,blue buffalo wilderness trail tubs beef stew grain-free dog food trays,Blue Buffalo,Blue Buffalo,5.0,4.0,stew
+1168,28.33,6.0,natural balance delectable delights bowl 'o barkgundy stew wet dog food,Natural Balance,Natural Balance,4.8,18.0,stew
+1169,31.44,12.0,merrick classic grain-free beef recipe puppy plate ,Merrick,Merrick,3.5,8.0,chunks in gravy
+1170,28.99,9.899999999999999,victor grain-free beef & vegetables entree in gravy ,Victor,Victor,4.3,9.0,chunks in gravy
+1171,48.57,14.0625,wellness core grain-free turkey lovers variety pack ,Wellness,Wellness,4.8,12.0,pate
+1172,28.99,9.375,blue buffalo blue's hunter's stew grain free ,Blue Buffalo,Blue Buffalo,4.7,15.0,stew
+1173,30.15,9.899999999999999,"castor & pollux natural ultramix venison,white potatoes & fresh cut carrots entree grain-free adult ",Castor & Pollux,Castor & Pollux,4.8,12.0,"stew, chunks in gravy"
+1174,31.44,12.0,merrick backcountry hero's banquet stew grain-free ,Merrick,Merrick,4.4,5.0,stew
+1175,32.99,9.375,wellness simple limited ingredient diet grain-free whitefish & potato formula ,Wellness,Wellness,4.3,38.0,pate
+1176,15.00,2.0999999999999996,weruva dogs in the kitchen the double dip with beef & wild caught salmon au jus grain-free dog food pouches,Weruva,Weruva,4.1,14.0,bits in broth
+1177,29.52,9.524999999999999,castor & pollux organix grain-free butcher & bushel organic shredded chicken dinner in gravy adult ,Castor & Pollux,Castor & Pollux,3.8,16.0,chunks in gravy
+1178,29.61,9.75,evanger's organics turkey with potato & carrots dinner grain-free ,Evanger's,Evanger's,4.8,34.0,pate
+1179,28.99,9.75,dogswell happy hips chicken & sweet potato stew recipe grain-free ,Dogswell,Dogswell,4.9,25.0,stew
+1180,21.73,9.75,i and love and you cluckin' good stew grain-free ,I and Love and You,I and Love and You,4.4,8.0,stew
+1181,28.08,4.95,instinct by nature's variety grain-free venison formula ,Instinct,Instinct,4.5,26.0,pate
+1182,16.80,5.25,"cesar home delights turkey,green beans,& potatoes dog food trays",Cesar,Cesar,4.6,10.0,chunks in gravy
+1183,31.44,9.524999999999999,merrick backcountry grain-free 96% real beef recipe ,Merrick,Merrick,4.1,16.0,pate
+1184,12.08,5.0,"purina beneful chopped blends with beef,carrots,peas & barley wet dog food",Purina Beneful,Purina,,,chunks in gravy
+1185,34.68,9.600000000000001,party animal cocolicious organic beef & turkey recipe grain-free ,Party Animal,Party Animal,4.7,14.0,pate
+1187,24.16,9.524999999999999,castor & pollux organix organic chicken & brown rice recipe adult ,Castor & Pollux,Castor & Pollux,4.8,13.0,pate
+1188,37.08,9.149999999999999,firstmate wild tuna formula limited ingredient grain-free ,FirstMate,FirstMate,5.0,2.0,pate
+1189,43.21,9.375,bravo! canine cafe chicken fricassee grain-free ,Bravo!,Bravo!,3.0,2.0,minced
+1190,52.29,9.75,hound & gatos rabbit formula grain-free ,Hound & Gatos,Hound & Gatos,2.7,3.0,pate
+1191,34.68,9.75,party animal turn up da turkey recipe grain-free ,Party Animal,Party Animal,4.9,7.0,pate
+1192,34.68,9.75,party animal heavenly venison grain-free recipe ,Party Animal,Party Animal,4.8,17.0,pate
+1193,28.68,12.0,health extension salmon entree grain-free ,Health Extension,Health Extension,4.6,10.0,pate
+1194,28.68,12.0,health extension vegetarian entree grain-free ,Health Extension,Health Extension,4.4,5.0,pate
+1195,34.48,8.7,royal canin urban life adult ,Royal Canin,Royal Canin,5.0,2.0,pate
+1196,45.48,9.75,wild calling hoppy's 96% rabbit grain-free adult ,Wild Calling,Wild Calling,4.8,43.0,pate
+1197,45.36,5.25,nutro wild frontier open plains recipe turkey & lamb loaf with chicken & turkey pieces adult high-protein grain-free dog food trays,Nutro,Nutro,,,pate
+1198,25.08,2.625,"castor & pollux organix tiny feasts organic turkey,quinoa & carrot stew dog food trays",Castor & Pollux,Castor & Pollux,,,stew
+1199,37.08,9.149999999999999,firstmate 50/50 turkey & tuna formula grain-free ,FirstMate,FirstMate,5.0,1.0,pate
+1200,32.05,9.5625,variety pet foods grandma's casserole ,Variety Pet Foods,Variety Pet Foods,5.0,1.0,stew
+1201,31.08,9.75,dave's pet food stewlicious grain-free turducken stew ,Dave's Pet Food,Dave's Pet Food,,,stew
+1202,18.72,2.625,merrick lil' plates grain-free dainty duck medley in gravy dog food trays,Merrick,Merrick,4.6,7.0,stew
+1203,32.64,10.65,against the grain nothing else chicken grain-free ,Against the Grain,Against the Grain,,,chunks in gravy
+1204,41.99,9.0,against the grain hand pulled chicken with gravy dinner grain-free ,Against the Grain,Against the Grain,4.1,18.0,shredded
+1205,53.88,10.350000000000001,addiction unagi & seaweed entree grain-free ,Addiction,Addiction,3.7,6.0,pate
+1206,0,9.0,evanger's grain-free hand packed braised beef chunks with gravy ,Evanger's,Evanger's,4.8,32.0,chunks in gravy
+1207,41.74,9.75,canine caviar 96% duck & sweet potato grain-free ,Canine Caviar,Canine Caviar,4.6,29.0,pate
+1208,34.65,9.75,canine caviar 96% turkey grain-free ,Canine Caviar,Canine Caviar,4.4,34.0,pate
+1209,30.92,9.75,nutrisca grain-free salmon & chickpea stew recipe ,Nutrisca,Nutrisca,4.8,34.0,stew
+1210,76.49,20.4,royal canin veterinary diet selected protein adult pv ,Royal Canin Veterinary Diet,Royal Canin,4.9,94.0,pate
+1211,44.84,9.675,wysong adult with organic chicken ,Wysong,Wysong,5.0,2.0,pate
+1212,31.60,9.899999999999999,"petguard senior chicken,liver & vegetables dinner ",PetGuard,PetGuard,4.3,6.0,pate
+1213,30.40,9.899999999999999,petguard gumbo with gravy ,PetGuard,PetGuard,,,pate
+1214,31.08,10.5,petguard chicken & vegetables puppy dinner ,PetGuard,PetGuard,5.0,1.0,pate
+1215,39.89,9.75,hound & gatos original paleolithic diet formula grain-free dog food,Hound & Gatos,Hound & Gatos,,,pate
+1216,39.89,9.75,hound & gatos gamebird formula grain-free dog food,Hound & Gatos,Hound & Gatos,,,pate
+1217,35.99,9.75,hound & gatos turkey formula grain-free dog food,Hound & Gatos,Hound & Gatos,,,pate
+1218,25.87,9.9,"kibbles 'n bits homestyle tender slices with real beef,chicken & vegetables in gravy ",Kibbles 'n Bits,Kibbles 'n Bits,,,chunks in gravy
+1219,15.71,9.9,kibbles 'n bits homestyle meatballs & pasta dinner with real beef in tomato sauce ,Kibbles 'n Bits,Kibbles 'n Bits,,,chunks in gravy
+1220,25.87,9.9,"kibbles 'n bits bistro tender cuts with real turkey,bacon & vegetables in gravy ",Kibbles 'n Bits,Kibbles 'n Bits,,,chunks in gravy
+1221,15.21,9.9,kibbles 'n bits bistro tender cuts with real beef & vegetables in gravy ,Kibbles 'n Bits,Kibbles 'n Bits,,,chunks in gravy
+1222,15.71,9.9,"kibbles 'n bits bistro hearty cuts with real beef,chicken & vegetables in gravy ",Kibbles 'n Bits,Kibbles 'n Bits,,,chunks in gravy
+1223,25.87,9.9,kibbles 'n bits american grill burger dinner with real bacon & cheese bits in gravy ,Kibbles 'n Bits,Kibbles 'n Bits,,,chunks in gravy
+1224,44.76,5.25,nutro wild frontier small prey recipe chicken loaf with chicken & turkey pieces adult high-protein grain-free dog food trays,Nutro,Nutro,,,pate
+1225,25.08,2.625,castor & pollux organix tiny feasts grain-free organic chicken & potato stew dog food trays,Castor & Pollux,Castor & Pollux,,,stew
+1226,51.48,9.375,lotus rabbit loaf grain-free ,Lotus,Lotus,2.0,1.0,pate
+1227,44.28,9.375,lotus sardine loaf grain-free ,Lotus,Lotus,5.0,1.0,pate
+1228,44.28,9.375,lotus pork loaf grain-free ,Lotus,Lotus,3.0,1.0,pate
+1229,35.88,0.81,tuscan natural carne grain-free turkey & chicken ,Tuscan Natural,Tuscan Natural,,,pate
+1230,35.88,0.81,tuscan natural simply pure lamb grain-free ,Tuscan Natural,Tuscan Natural,5.0,1.0,pate
+1231,32.64,10.65,against the grain nothing else salmon canned grain-free dog food,Against the Grain,Against the Grain,,,chunks in gravy
+1232,32.27,10.65,against the grain nothing else pork canned grain-free dog food,Against the Grain,Against the Grain,,,chunks in gravy
+1233,32.64,10.65,against the grain nothing else duck canned grain-free dog food,Against the Grain,Against the Grain,,,chunks in gravy
+1234,32.64,10.65,against the grain nothing else beef grain-free ,Against the Grain,Against the Grain,,,chunks in gravy
+1235,33.99,0.34375,tender & true sustainable seafood ocean whitefish & potato recipe grain- free ,Tender & True,Tender & True,,,pate
+1236,19.28,9.9,pedigree chunky ground dinner with beef ,Pedigree,Pedigree,5.0,1.0,minced
+1237,37.08,9.149999999999999,kasiks cage-free turkey formula grain-free ,KASIKS,KASIKS,,,pate
+1238,29.04,11.7,dogswell wet food grain-free turkey savory stew,Dogswell,Dogswell,,,stew
+1239,29.04,11.7,dogswell grain-free savory stew chicken recipe ,Dogswell,Dogswell,,,stew
+1240,29.04,11.7,dogswell savory stew duck recipe grain-free ,Dogswell,Dogswell,5.0,1.0,stew
+1241,29.04,11.7,dogswell savory stew lamb recipe grain-free ,Dogswell,Dogswell,,,stew
+1242,29.04,11.7,dogswell hearty loaf chicken recipe grain-free puppy ,Dogswell,Dogswell,,,pate
+1243,16.99,2.625,under the sun grain-free with salmon & shrimp dog food trays,Under the Sun,Under the Sun,2.0,1.0,pate
+1244,76.56,9.0,k9 natural grass-fed beef feast with hoki oil grain-free puppy ,K9 Natural,K9 Natural,5.0,1.0,pate
+1245,59.88,0.78125,caru real chicken with duck stew grain-free wet dog food,Caru,Caru,4.0,2.0,stew
+1246,37.08,9.149999999999999,firstmate 50/50 chicken & tuna formula grain-free ,FirstMate,FirstMate,,,pate
+1247,100.56,9.0,k9 natural grass-fed venison feast grain-free ,K9 Natural,K9 Natural,4.0,3.0,pate
+1248,76.56,9.0,k9 natural cage-free chicken & tripe feast grain-free ,K9 Natural,K9 Natural,4.0,2.0,pate
+1250,66.96,8.25,lotus pork stew grain-free ,Lotus,Lotus,,,stew
+1251,19.98,2.25,variety pet foods mixables mixed grill variety pack dog food pouches,Variety Pet Foods,Variety Pet Foods,4.0,1.0,chunks in gravy
+1252,33.42,9.5625,variety pet foods savannah crockpot ,Variety Pet Foods,Variety Pet Foods,,,stew
+1253,27.48,9.899999999999999,variety pet foods homestyle stew mom's crockpot ,Variety Pet Foods,Variety Pet Foods,,,stew
+1254,25.83,9.5625,variety pet foods healthy coat mom's tasty mixed grill ,Variety Pet Foods,Variety Pet Foods,5.0,1.0,stew
+1255,27.11,9.5625,variety pet foods healthy coat grandma's buffet dinner ,Variety Pet Foods,Variety Pet Foods,,,stew
+1256,33.07,9.5625,variety pet foods healthy coat dad's savory catch ,Variety Pet Foods,Variety Pet Foods,,,stew
+1257,28.99,9.899999999999999,dave's pet food stewlicious luscious lamb stew ,Dave's Pet Food,Dave's Pet Food,3.0,1.0,stew
+1258,31.08,9.75,dave's pet food stewlicious grain-free gobbledy good stew ,Dave's Pet Food,Dave's Pet Food,4.5,2.0,stew
+1259,36.00,5.025,almo nature legend tuna fillet adult grain-free ,Almo Nature,Almo Nature,,,minced
+1260,36.00,5.025,almo nature legend tuna and chicken adult grain-free ,Almo Nature,Almo Nature,,,minced
+1261,34.55,5.025,almo nature legend homemade style chicken with carrots adult grain-free ,Almo Nature,Almo Nature,5.0,1.0,minced
+1262,34.49,5.025,almo nature legend homemade style beef with potatoes and peas adult grain-free ,Almo Nature,Almo Nature,5.0,2.0,minced
+1263,35.35,5.025,almo nature legend chicken fillet adult grain-free ,Almo Nature,Almo Nature,3.0,1.0,minced
+1264,34.73,5.025,almo nature legend chicken drumstick adult grain-free ,Almo Nature,Almo Nature,3.0,1.0,minced
+1265,34.80,5.025,almo nature legend beef adult ,Almo Nature,Almo Nature,1.0,2.0,minced
+1266,34.68,9.600000000000001,party animal cocolicious 95% wild caught salmon grain-free ,Party Animal,Party Animal,4.9,19.0,pate
+1267,34.68,9.600000000000001,party animal cocolicious 95% wholesome venison grain-free ,Party Animal,Party Animal,4.6,27.0,pate
+1268,43.23,9.375,bravo! canine cafe turkey fricassee grain-free ,Bravo!,Bravo!,4.8,4.0,minced
+1269,31.60,9.899999999999999,"petguard liver,vegetable & wheat germ dinner ",PetGuard,PetGuard,4.7,3.0,pate
+1270,29.26,9.75,dave's pet food grain-free turkey & sweet potato cuts in gravy ,Dave's Pet Food,Dave's Pet Food,,,chunks in gravy
+1271,34.35,9.5625,variety pet foods mom's turkey dinner ,Variety Pet Foods,Variety Pet Foods,5.0,3.0,stew
+1272,27.48,9.899999999999999,variety pet foods homestyle stew momma's best ,Variety Pet Foods,Variety Pet Foods,,,stew
+1273,31.08,9.899999999999999,dave's pet food stewlicious chicken casserole ,Dave's Pet Food,Dave's Pet Food,5.0,2.0,stew
+1274,33.42,9.75,party animal ducked up recipe grain-free ,Party Animal,Party Animal,4.3,9.0,pate
+1275,32.99,9.375,blue buffalo santa fe grill with chicken & chickpeas ,Blue Buffalo,Blue Buffalo,,,chunks in gravy
+1276,16.00,3.29,triumph meals of victory with salmon in savory juices dog food trays,Triumph,Triumph,,,bits in broth
+1277,27.48,9.899999999999999,variety pet foods homestyle stew dad's casserole ,Variety Pet Foods,Variety Pet Foods,5.0,1.0,stew
+1278,26.08,9.899999999999999,evolve lamb formula ,Evolve,Evolve,3.7,3.0,pate
+1279,41.88,9.375,lotus salmon loaf grain-free ,Lotus,Lotus,,,pate
+1280,41.88,9.375,lotus turkey loaf grain-free ,Lotus,Lotus,,,pate
+1281,19.15,9.9,pedigree homestyle meals lamb & rice flavor stew ,Pedigree,Pedigree,,,chunks in gravy
+1282,43.23,9.75,bravo! canine cafe 95% chicken & liver dinner grain-free ,Bravo!,Bravo!,,,shredded
+1283,30.48,9.899999999999999,petguard chicken & herbed brown rice dinner ,PetGuard,PetGuard,4.0,2.0,pate
+1284,45.36,5.25,nutro wild frontier hunters recipe beef loaf with chicken & turkey pieces adult high-protein grain-free dog food trays,Nutro,Nutro,,,pate
+1285,44.28,9.375,lotus duck loaf grain-free ,Lotus,Lotus,,,pate
+1286,41.88,9.375,lotus chicken loaf grain-free ,Lotus,Lotus,4.0,1.0,pate
+1287,29.26,9.75,dave's pet food grain-free ocean fish & vegetable cuts in gravy ,Dave's Pet Food,Dave's Pet Food,5.0,2.0,chunks in gravy
+1288,32.99,0.825,tender & true antibiotic-free natural chicken & brown rice recipe ,Tender & True,Tender & True,4.0,1.0,pate
+1289,43.23,9.375,bravo! canine cafe beef fricassee grain-free ,Bravo!,Bravo!,3.7,3.0,minced
