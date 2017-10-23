@@ -41,7 +41,9 @@ gen_wordcloud=function(filecsv, cloudname,excludelis=c('')){
 }
 
 #benefits_exclude=c('artificial')
-neg_exclude=c('free','now','likes','one','very','great','love','loves','loved','like','always','absolutely','eatone')
+neg_exclude=c('product', 'cans','will','good','eat','chicken',
+              'free','now','likes','one','very','great','just',
+              'love','loves','loved','like','always','absolutely','eatone')
 pos_exclude=c('dry','old','one')
 neg_title_exclude=c('love','much','quality','cans','products','product','eat',',much','great','good','like','likes','picky')
 gen_wordcloud('benefits.csv','benefits')#,benefits_exclude)
@@ -49,3 +51,4 @@ gen_wordcloud('neg_review.csv','neg_reviews',neg_exclude)
 gen_wordcloud('pos_review.csv','pos_reviews',pos_exclude)
 gen_wordcloud('neg_title.csv','neg_titles',neg_title_exclude)
 gen_wordcloud('pos_title.csv','pos_titles')
+
